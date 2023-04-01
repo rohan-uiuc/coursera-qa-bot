@@ -1,0 +1,143 @@
+[MUSIC] >> Chris, thanks for joining us today. >> Yeah, absolutely. Thanks for having me. >> Thanks for your help in helping
+me launch my 3D printing adventure. I couldn't have done it without you. >> Yeah, thank you. [SOUND] So the idea of the hackerspace is
+that you bring people together who have interests and maybe dissimilar backgrounds
+or similar backgrounds or similar experiences or very different experiences,
+and you bring them under one space. It's just like a gym club for
+people that like to build stuff. And so you can come in,
+you can use the tools, you can use the equipment, you can get
+training, you can get instructions. Meet up with like minded people and
+work on projects together. Now the thing a lot of people neglect
+is that it's not all about the tools, it's all about the people. So the people that you can bring together
+are the most important asset, and the tools are a secondary asset. Sector 67 got started about five
+years ago, which makes us one of the earlier hackerspaces in the US,
+and one of the first in Wisconsin. But when I graduated with a master's
+degree in mechanical engineering, I rented a building,
+the building that we're in now. And I hoped that it would work out. I signed a personal guarantee
+on a one-year lease, and I hope people would show up and use it. [SOUND] When I was a kid, I used to go
+run over to my neighbor's house, and my neighbor had a welder. He had a car lift. He had an acetylene torch. He had all the necessary tools to
+be able to work on a car and so that was my sort of
+primordial hackerspace, further then that is really
+thinking in terms of a farm. So farmers are the earliest
+hackerspace operators. Those are the folks who ran
+to their neighbors and said, hey you've got the tool that I need or can you come down help me with fixing my
+tractor, get my equipment working again. This has been around forever, this idea
+of sharing tools and ideas and resources. It just hasn't been done in inner
+city areas or downtown areas, and I think that's really the biggest
+difference with the hackerspace and what's been done in the past. [SOUND] In the past five years we've
+had a little over 500 members. And having folks come and
+go is a healthy thing, so at any one time we've got about
+100 members who are active. Our membership's all month to month, so
+people can join for a month, they join for a year, or do whatever they like to do in
+terms of what timing works out for them. But we've had just as many people who have
+no formal training in anything as there are people who've got a PhD in physics and
+maybe a Master's in engineering. And I'd say that's the underlying
+theme with the people that are here is that everybody likes to build things. I think what it really comes down to,
+though, is having somebody around
+you to egg you on. I think that's what
+a hackerspace really exists for, is to draw together people who go
+I've never done this before and somebody else looks at them and goes,
+yeah, I had to do that last week, here's what I did and here's what
+worked out well and here's what didn't. And I think that's the differing
+element between reading online and being on a forum. And being in an environment with
+a bunch of people who are working on things together. Is that you get the true, you bump elbows with somebody who's doing
+something totally different than you. One of the members is really
+into taking USGS survey data and then compiling it into something that's
+either 3D printable or routable. This company's called My Square Foot,
+but he makes these brilliant maps and routes them into a piece of wood. This one's been milled out of
+a piece of pine on the CNC router. But you can just as easily
+print one of these off. We've got another member who
+worked here who's actually making frying pans in the shape of the state. She's got all the US states
+all made out of cast iron and they're usable frying pans so you can
+use them as a wall decoration as well. One of the members built a penny
+farthing which is an old-time bike with a giant front wheel. This is a laser-cut wooden hat and one of our members has a patent on
+this tab and slot construction system. There's no glue and no screws
+holding this together on the top and it's essential just held
+together under it's own tension. This is bending plywood and
+then it's been laser cut and laser engraved so
+that's how it's been cut out of the wood. >> Very cool.
+[NOISE] >> I think 3D printing about five years ago really picked up. There was a patent that expired and
+allowed a lot of innovation in the area. We started off with RepRaps,
+which were 3D-printable 3D printers and those are still around. Those spawned MakerBot
+out of NYC Resistor, a hackerspace in New York just like
+this one where MakerBot got its start. And then we've seen from then many many
+many different companies entering this arena and starting to construct and
+manufacture their own machines, and there's a number of those
+machines in this room. And yeah,
+I think it's a really commonplace tool. It's a very accessible,
+very easy to understand how to use. And the best part about it is there's not
+a lot of prior knowledge that you need. Because it's additively
+building the parts. The 3D printer you're just hitting print. The platform's starting off
+empty as a blank slate and then building up your part
+layer by layer by layer. Behind us on the back wall there, there is a whole bunch of 3D printers
+that are used to print off these stamps. So these are a company
+called Snowshoe Stamp, these are emulating the points of
+contact of your fingers on the screen. And so
+when you push this up against your screen, your phone can register where
+these contact points were, and it's an authentic means of validating
+that you've been to a location. If you wanted to go to a coffee shop and
+say, yep, I've been to the counter, I bought a coffee, you can stamp your
+phone on this and it'll authenticate that you were at that particular location
+interfacing with this particular stamp. The challenge is though is that
+every stamp needs to be unique. 3D printing right now is really one of
+the only viable processes to make these. They're able to make hundreds and
+hundreds and hundreds of these stamps on 3D printers. And they're not able to make many
+thousands in short order but there still able to make every
+single one of these be unique. For this company 3D printing was
+crucial to them getting started. And they actually got
+started here at Sector 67. I think you see a lot of entrepreneurs and a lot of start ups using 3D printers
+as a manufacturing approach. And I think that's going to continue
+to happen more and more often. As the printers keep coming down in price,
+it becomes more feasible to have a dozen of them or two dozen of
+them on a wall or on a shelf and be able to work those machines nearly
+around the clock making your parts. So I think with 3D printing you're
+going to see many different technologies come into play in the future. So right now FDM technology, where you're laying down material like
+a hot glue gun does is really commonplace but SLA and SLS are two different other
+manufacturing approaches that yield a lot higher detail and a lot better
+approach to manufacturing parts. And those printers are going to
+become more and more popular. But I think second to that, you've still got traditional
+subtractive manufacturing technologies. There's actually a maker of CNC milling
+machines just north of us in Waunakee called Tormach. And Tormach makes CNC mill and those mills
+are doing subtractive manufacturing. And so when you do subtractive
+manufacturing you're putting in a block of metal or a block of steel or
+whatever you want to make it out of and you're removing material. These guys are building
+desktop personal CNC machines. They're nearly the size of a 3D printer. But they're able to make
+metal parts directly. And they're making the software and technologies much,
+much easier to approach. And I think that's going to be
+another place things are going to go as people are going to start to realize
+that through software solutions, and just educational solutions, you can teach
+people how to use a lot of these machines that were difficult previously, and
+are becoming easier, and easier to use. I think the future is still going to
+be a big blend of these things. Really, 3D printing has enabled anybody
+to start manufacturing their own products on their desk. The catch is it's limited to what
+they can consume as an end consumer. But the idea of a 3D printer though is
+that every end consumer could own one of these machines. So now it falls into
+the hands of designers. To be able to design parts that are
+manufacturable on a printer to be used at home, and, I think, as the technologies
+continue to improve, and, as we'll see, over the next five years, these
+technologies are going to become more, and more advanced, and more, and more easy to use, which has really
+been the key innovation to date. And we're seeing a lot of
+start ups embrace that and build their products within the confines
+of what the printer can make. And I think that will continue to permeate
+larger manufacturers and larger companies. But the reality will become you can
+make more and more customized things. I would say 3D printing has definitely
+been a revolution over the past five years and
+going to be going forward from there. We're going to see more and
+more technologies evolve and more and more openness around these things. And I think that's really the revolution,
+is this idea of being open to making things yourself, and
+the idea of designing things yourself and figuring out how to go about doing
+that is really the next step. [SOUND] I guess my advice for 3D printing
+would be number one, don't just go out and buy a machine for yourself. First, look in to the community and
+find out if someone also already has one, that you could go meet with them or
+talk with them or interact with them and find out what their experience has been, because the whole point of a hackerspace
+is bringing people together. The opportunity for the two of you to
+learn together is a lot more valuable than individuals working in their
+homes on their own projects. On hackerspaces.org they list all
+these spaces all around the world. So you can go on there and check it out
+and see what's out there and there might be one right around the corner from you,
+you just haven't heard about it yet. There's a website called Hackaday. Hackaday shares different projects. It's essentially a project blog. So anyone can contribute
+a project to that. It'll get featured on the main page and
+people then talk about it in this huge community around that website
+of just people making projects. If you're interested in looking
+more into what we're up to, you can go to sector67.org. And, we've got a lot of information on
+products that are up there, the tools and equipment that are here. And, if you're ever in Madison we
+do tours every Friday from 1:00 to 7:00 on the hour. [MUSIC] [SOUND]

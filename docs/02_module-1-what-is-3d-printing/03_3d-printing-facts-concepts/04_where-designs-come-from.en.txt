@@ -1,0 +1,45 @@
+[MUSIC] Now let's take a look at
+where designs come from. Regardless of the specific process or type of materials all 3D printers
+start with a digital design and this digital design forms the base for
+the object to be printed. These designs could be obtained in three
+different ways, the first way is modeling. Most 3D designs are made using a 3D
+modeling software such as Tinkercad, Google SketchUp or Autodesk Fusion. Although these programs
+are getting easier all the time, if you haven't used them before
+there's a bit of a learning curve. Tinkercad is the most
+accessible program and its basic functions can be
+learned in about an hour or less. In fact, we use Tinkercad in our lab
+to train kids as young as ten years old how to create 3D printable designs. So if they can do it,
+you can do it as well. The 3D software portion of our
+specialization will guide you through both Tinkercad as well as a more advanced
+modelling software called Fusion 360. This class will be taught by
+Jeff Smith who works for Autodesk so again this training directly
+from the firm that markets and owns both of these two software programs. The Illinois I that I have here in front
+of me is a good example of something that will be created using
+a digital modeling program. The second way in which you can get
+3D designs is through scanning. So we say that 3D printing allows
+you to turn your ideas into objects, well scanning allows you to
+turn your objects into ideas. So, what a 3D scanner allows you
+to do is to make a 3D photocopy of a person or an object. These 3D scanners have been around for
+awhile but until recently they were quite expensive, today you can buy
+3D scanners for $500 or less. Let me show you an example,
+this is a 3D scanner called the Structure Sensor and
+it's mounted on an iPad, and the scanner itself is about $500 US. And simply you just scan using your iPad,
+it's really quite easy. In addition to buying a 3D scanner
+you can also download for free, or for very low cost,
+an app on your smartphone. For example, Autodesk has a program for free called 123D Catch,
+it's an app you can download and it takes a series of photographs
+in which you can scan an object. Let me show you an example,
+this object here is a scan that was made of the head of Mars
+using a smartphone app. And this is a statue, a replica of
+a statue that sits in the Art Institute in Chicago, as you can see this
+scan is quite detailed. We'll explore scanning in more detail
+during our 3D printing software class. The third way in which you can get a 3D
+design if you don't own a scanner or if you don't know a 3D modeling
+program is simply download the design. Today there are a number of websites
+which you can go in and find 3D designs such as GrabCAD, Youmagine,
+or my favorite, Thingiverse. These design files are usually free or
+very low cost, for example, thingiverse contains hundreds of thousands
+of digital designs all of which are free, thus if you can download a file,
+you can create 3D printed objects. For example, this model of
+the Eifel Tower is a great example of the types of designs you can
+find free on Thingiverse. [MUSIC] [SOUND]

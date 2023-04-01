@@ -1,0 +1,105 @@
+[MUSIC] Hi. We're here at Sector 67 in Madison,
+Wisconsin. We're here to talk with Chris Meyer,
+the founder of Sector 67, and the guy who got me started
+on my 3D printing journey. Let's go see if we can find Chris. [MUSIC] Is Chris here? >> Hey Eric.
+>> Chris. >> Great to see you. >> Yeah, good to see you too. >> It's been a long time. Thanks for
+taking the time to meet with us. >> No, thanks for coming on,
+great to see you. >> Can you show us around? >> Yeah, absolutely. So this is Sector 67, we've made
+no effort in making it look fancy. Basically, at any time of any day there's
+a lot of different people in here, working on all kinds
+of different projects. Here we can check out all the shops, and
+you get a chance to see what's here. >> That's a great sign. >> Yeah, our sign actually is sort of
+representative of all the different workspaces. So, S is made in the machine shop. The E is all knit on a computer
+controlled knitting machine. The 6 giant circuit board sota
+kind of like our electronic shop. The seven is made on the laser cutter,
+the laser engraver. And the O is actually all 3D printed. And the R is made in the wood shop. So these sort of show the different
+workshops that we've got. And that's kind of what I'll
+show you this afternoon. So there's a welding shop in here. And we've got a bunch of cutters,
+and grinders, and sand blasters and welders and welders. And the different stock folks use for different products as they're
+building metal things. So we need all these tools just to be
+able to build anything out of metal. That's one of the challenges
+with traditional manufacturing, is you need a lot of equipment to be
+able to build things and make stuff. >> And what kind of training
+do you need to have to be able to operate this machinery? >> That's one of the challenges
+with regular manufacturing, is you gotta come in. And rather than just sitting down and
+getting started making things we gotta come in and go through how to keep
+your eyes safe, keep your hands and fingers safe, keep yourself shielded from
+all the ultra-violet light, the smoke, the fumes, the particulate. All kinds of things
+coming off the equipment. And then after that we can start in
+on how to actually use the tools and head back out this way. >> All right.
+>> kind of make a big loop around >> Probably one of the most important things in this shop here is the failure
+horn and the good job bell. Both to celebrate both things. So you know if you do a good job
+you gotta give it a ring and if you don't do such a good
+job you get the fail horn. >> And which one is used more often? >> Usually the good job bell but the
+failure horn gets rung once in a while. Okay.
+>> So this is a laser cutter and a laser engraver. This machine is able to
+make really cool stuff. >> So what does a laser cutter do? It takes a piece of material? >> Yeah, so
+you've got to start off with, yeah. And this again is another disadvantage
+of subtractive technology, is this actually came
+out of this piece here. >> So
+this is a piece of wood that was cut. Using a laser in that machine? >> Yeah, exactly. So this is a beam of light that comes
+through, is focused on a very small spot and is able to cut out, in this case,
+particle board or wood. The advantage here is,
+this is really fast. So you can put a sheet of material in
+here and in a matter of minutes or seconds have your pieces versus
+printing which is a little bit slower. You're going to take many hours to
+print something that's this size. So that's one of the advantages
+of this machine. >> So this is faster than a 3D printer? >> Exactly. >> What's the disadvantage
+compared to a 3D printer? >> Assembly. So once this comes out of the machine,
+if you want a 3D object, you've gotta go through and
+put it all together. So this thing is an injection molder and
+the plastic comes in, right into this hopper. >> Do you put the plastic inside here? >> Yep.
+And then this piston pushes it down out this opening. And it goes right into this. You can see this is a mold plate here for
+our Sector 67 poker chip. You end up with these pellets
+getting pushed into a mold chamber, taking the shape of the mold but
+in a very quick fashion, curing, and then being pushed out of the mold. So every 17 seconds,
+this small machine can make a poker chip. Unlike 3D printing where this would
+take about 20 to 25 minutes to print the part this size. So the advantage to injection molding,
+it's very fast. A disadvantage is it's the same part,
+over and over. >> And
+this is how most plastic things are made. >> Yeah, 99% of plastic objects
+you've ever interacted with, they're probably made
+in an injection molder. >> So there's a wood shop back here, and these guys are actually working on
+making some dust stands for monitors. This is probably America's number one
+past time, is woodworking and carpentry. >> So this would be another example
+of subtractive manufacturing? >> Yep, so
+this is all subtractive manufacturing, so we've got to have a lot of stock laying
+around, and have a lot of different tools to remove material from that
+to get our final form of our part. The advantage here though is that
+we can quickly make large parts, because we can start from a big piece and
+we can remove pieces from it, and end up with a big piece quickly. >> Also, this looks quite dangerous. >> Yeah.
+[LAUGH] Woodworking is certainly hazardous. You'll meet more than a few carpenters
+who've had some issues with cutting tools before. So back here, we've got our 3D printing
+lab, though we've got a whole pile of printers on the wall here,
+starting up from the very top. That's a Reprap,
+it's a 3D printable 3D printer. These are cupcake model printers which
+are the first generation maker bots all the way down to the third
+generation maker bot. And then a variety of other machines that
+are available like the Slollsbot printer and a bunch of other clones of essentially
+this generation of open source technology. So the rest of the room,
+we've got a number of sewing machines and embroidering machines. Back here there's an electronics lab. So we've got a bunch of
+electronics work benches and a computer lab kind of down
+the center of the room. We use this space for
+education, for teaching. So we teach classes back here. We got a projector setup and a screen. And then we've got a number of work
+stations so folks can learn 3D modeling, 3D design, anything like that. And kind of directly behind
+us is a machine shop. So this is sort of where a lot
+of manufacturing came from. Originally, I've made
+a rough casting of a part. And then you come back here, you use one
+of these machines to finish work and make it smooth, clean it all up,
+get it together. >> I think that's probably one of the
+revolutionary aspects of 3D printing is, a machine like this,
+due to the size and the cost, it wouldn't be accessible
+to the average person. >> Yeah, exactly. And that's where a workshop like this,
+you got a hacker space her with a lot of the tools that
+are in-feasible to own in your own home. But the catch is you don't need them
+that often, and often you can get away with using plastic or wooden parts
+as opposed to making metal parts. And then in the very back here there is
+an office space or a business incubator. So this is where businesses come in. They're able to rent a desk and they're able to work here to
+get their idea up and running. And so we've got a number of office users back here where they've
+got their own workspace. So essentially, we kind of made
+a big roof around Sector 67. We got a chance to see all
+the different workshops that are here, all the different
+workspaces that are here. And talk a little bit about where 3D
+printing came from from my perspective and sort of where it's headed. So it's great to see you. >> Thank you for your time. >> Absolutely.
+Thanks very much for coming out. >> Come on down the lab any time you like. >> Absolutely.
+Thank you. >> Great thank you. [MUSIC]

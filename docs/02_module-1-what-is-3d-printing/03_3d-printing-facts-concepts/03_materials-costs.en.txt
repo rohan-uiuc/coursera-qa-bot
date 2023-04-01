@@ -1,0 +1,43 @@
+[MUSIC] Now, let's take a look at the materials
+that are used to create 3D printed objects. Although there are many different
+types of 3D technologies, nearly all 3D printers
+work in one of two ways. They either take a soft material and
+make it hard, or take a hard material and make it soft. Thus, just about any material that can be
+hardened or softened can be 3D printed, including plastic, metal,
+carbon fiber and even chocolate. At present, the vast majority of desktop
+3D printers are FDM machines such as the Ultimaker, that create objects
+by softening a strand of thermoplastic. There are currently two major types
+of thermoplastics, ABS and PLA. ABS stands for
+acrylonitrile butadiene styrene or something like that, and
+is made from petroleum. The second type of thermoplastic is
+PLA which stands for polylactic acid. This is made from corn. Both ABS and PLA are very strong and
+share a number of properties. For example, they have the same melting
+point, come in a variety of colors, and both are used by large manufacturers
+to make a variety of products. For example, if you've brought Legos,
+Legos have been made with ABS plastic. Our 3D printing and hardware course will
+dive into more details about the pros and cons of each of these
+different types of plastics. Of the two, we recommend PLA. This is the material that we use for
+nearly all of our printing. And when you melt it,
+it actually smells like waffles, so has a pleasant side effect. One of the limitations of both ABS and
+PLA is their stiffness. Both are quite hard and don't bend easily. For example,
+this smartphone case was made using PLA. As you can see, it's not very flexible. So in recent years, a variety of different types of flexible
+plastic filaments have emerged. In fact, I have one right here. Here in white,
+this is a flexible filament. And as you can see, it bends quite easily. So this sort of material is really good
+for making things that need to flex, such as a shoe or a ball. In addition to hard and soft plastics,
+a number of mixed polymer materials are starting to appear,
+such as this wood-based polymer. This gnome is printed in a polymer that
+is 60% plastic and 40% wood byproduct. And as it melts,
+the plastic is melted away and you're left with the wooden product. In addition, there is concrete polymers
+and polymers that look like bronze. The range of materials that can be heated
+up and melted through an FDM printer, such as this, will continue to
+increase in the coming years. So the capabilities of the machines
+will be quickly expanding. One of the frequent questions that
+those new to 3D printing often ask is, how much does this material cost? Well, what would you think that
+a roll of PLA or ABS would cost? This is a kilogram. Well, in actuality, the cost of this material is much
+cheaper than most people think. A kilogram of thermoplastic typically runs
+for about $20 US, which is $0.02 a gram. As a point of reference,
+a typical smartphone case such as the one I have here,
+weighs between 20 to 25 grams. Thus, you can print a case for
+your phone for less than $0.50, which is a lot less than you
+would pay if you bought one. Thus, 3D printing objects is typically a
+lot cheaper than buying them from a store. [MUSIC] [SOUND]

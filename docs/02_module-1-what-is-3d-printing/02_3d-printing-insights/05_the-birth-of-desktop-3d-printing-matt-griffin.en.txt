@@ -1,0 +1,136 @@
+[MUSIC] [NOISE] Hi,
+I'm here in a New York City taxi, we're on our way to
+meet with Matt Griffin. I first met Matt back in 2010 when I build
+my First 3D printer, a MakerBot Cupcake. Since that time, Matt has moved
+onto a variety of other jobs and has recently begun as the new community
+manager for Ultimaker, the Desktop 3D printer that we'll be featuring in the
+hardware segment of this specialization. Matt, thanks for meeting with us today. >> Great, glad to meet with you. >> Let's start from the beginning,
+how you got interested in 3D printing. >> I had been working in film and theater producing and
+insulation art and that sort of thing. I started going over to NYC Resistor
+in Brooklyn and I saw the first prototype of the MakerBots and started
+thinking about what might be possible. At that time, I was focused on
+like stop motion animation and puppetry and installation art,
+like what I could do if I had a 3D printer because I didn't have money
+to get one and I wanted to use one. >> The only other route was to go pitch in
+to help put together the kits at MakerBot, because they were just
+starting out as a business. They had no employees yet. I made a short video of the first
+high school classroom that had a 3D printer in the curriculum. It was Liz Aaron's class
+over at Saint Ann's, in Brooklyn, and the students who
+had adopted it, like a class pet, were doing such incredible work with
+it and helping each other to use it. I was kind of all in, and
+was lucky employee 13 at MakerBot and was basically there all the way up to
+launch of the Replicator2 in Wired. NYC Resistor is a hacker space, one of the early ones that was
+popular in the United States. It was bringing the model
+over from Europe. It was a natural place for
+3D printing to be fostered because the width and style of making these
+early 3D desktop printers was to find the simplest solution for
+these little Cartesian machines. That would allow them to use
+at hand parts, make things using a laser cutter to frame out machines
+and platforms and those kinds of elements. In the early days,
+the machines were much tougher to use so you could be really happy to make just
+a pulley that spins, like that was great compared with today where
+the level of ambition is much higher. The early days, it was sort of
+the excitement of saying okay, I need exactly this thing,
+it's very simple. But instead of going to buy it,
+we could use some free software, or affordable software, and
+work our way towards these ideas. Getting feedback from other
+people who are also similarly trying to solve these problems and then
+see the tangible results in front of us. If you could race to try things and then
+it wasn't that upsetting if it didn't work out because you're only using
+like a dollar worth of plastic. MakerBot came out of the RepRap movement. There had been 3D printers for 20 years,
+I guess at this point, maybe 25 years. People who were working in engineering or
+manufacturing, they knew about them and they had a certain place in
+the tool chain for prototyping. The RepRap movement emerged out of
+the idea, what if we find a cheaper way to solve the problem of making these
+machines that have been around using as few specialized parts as possible so
+that more people can make them? So, the efforts you go into solving your
+machine can then be replicated by another, which then shaped into replicating itself. They were using like threaded rod and
+as many 3D printed parts as possible. The goal then became we want to make something like
+a dedicated machine to make these parts. We're not as concerned about
+the self-replication part of this, which had been instrumental in spreading
+the word that this might be possible. MakerBot was essentially the first
+company to get a lot of attention for being able to offer
+a machine that would work without you having to have
+another 3D printer to produce it. The U.S. launch of Ultimaker happened
+at an event that I was helping to throw at MakerBot at in Brooklyn, BotoCon0. >> Okay. >> I had known about Erik de Bruijn,
+one of the three founders of Ultimaker because he was another
+one of the core RepRap people. In fact, he was the first one to
+successfully produce a working Darwin. The first of the breed of RepRap that
+people were making in the world and nobody other than Adrian Bowyer,
+the founder of this movement,
+had managed to make one that worked. He had that kind of cred, if you will. I knew about him. I knew about his interest. He came to speak in
+the event we were doing and I have been following
+their work the whole time. I think that these
+machines are fantastic and I love how they keep the spirit,
+the value of community alive. Ultimaker is still an open-source hardware
+platform and there's an opportunity to introduce more people and more types
+of communities to these machines. They're setting up a North American
+branch, and I'm the director of community. [SOUND] Desktop 3D printers
+are pretty affordable, pretty safe ways to produce
+something that you need right then to go from a digital
+file to a physical object. While there are other ways to do this
+sort of thing, the close connection of having a computer controlled tool and
+producing parts in a hard plastic that can be used for so many different things
+means that you can use a desktop 3D printer as a general tool to solve
+a huge range of problems and needs. One of the things that's new, as far as
+far as the experience of a designer or engineer using a desktop 3D printer
+is that the process of creation becomes one that closely ties the digital
+design with the physical world. The objects that you're
+making end up being these digital objects where you can kind of keep
+thinking and sketching anywhere you are, making contributions towards
+what you're trying to get, regardless of what kind
+of project you're making. You can basically use a tool like
+this to think in the real world and be able to show other people
+what you mean by something by allowing them to encounter it. I think this is a fantastic opportunity
+for people who are curious and want to learn more about the world. At this point, in the highly accelerated
+story of desktop 3D printing, we've gone from being excited that it even works to
+being really picky about how it works. In my opinion, the story is shifting
+now from the kind of hype that floated around the idea of having
+a machine that can produce something for you to a more specific understanding
+of what you can use these tools for with the excitement being located
+in what you actually do with it. I really think that this is actually
+a more exciting time in 3D printing than the last couple of years. I have been seeing more and more projects,
+where instead of the need for every element of it to be 3D printed and
+going through extreme efforts to solve any sort of problem with the tool you have
+at hand, that people are now using a 3D printer in a context where they have other
+tools and other ways to solve things. I'm seeing more clever solutions
+using a 3D printer when people are faced with, I want to produce
+the outer shell with this material. Maybe I have this already done, but
+I need it to attach to this thing and there's not really an off
+the shelf solution for that, so I'm going to solve this right now by
+measuring and 3D printing a solution. That coupled with all of the new
+materials, that geometrically increases the capability of
+a machine like a desktop 3D printer. And all of the excellent
+3D printing services, including 3D hubs where you have a crowd sourced opportunity to work with other
+individuals using machines like this. You're seeing more interesting problems
+solved because the focus is shifting from like 3D printing is great, to I really
+want to solve these problems in robotics, in design, in fashion, in construction. And these tools are helping
+me do more than I could if I was only
+using traditional tools. [SOUND] The question of whether
+a desktop 3D printer really is or should be a consumer product,
+it comes up all the time. To some degree, there are many people
+I know who never really will have an interest in designing and printing
+their own objects, which is totally fine. But there is a couple of interesting
+opportunities as you see more and more places, like universities and
+local community centers, for people to have access to 3D printers
+when they need them, even if they wouldn't think of themselves as somebody
+really that focused on 3D printing. [SOUND] Right now,
+there are more resources going online for 3D printing than ever before. In particular, a huge range of
+tutorials created by individual users, as well as the companies producing
+software tools and hardware tools. You can go online and find videos and tutorials for almost every
+problem you might encounter and to couple that with asking questions and
+downloading completed projects from Thingiverse,
+YouMagine, MyMiniFactory. Places where the people
+sharing those parts have battle tested them and might even respond
+to your questions if you're wondering like how this specific feature was produce. And that seems to be a key way to pick up the technical tools for how to do this kind of work and so
+I would say that resource is fantastic but what you want to make sure you're
+exploring as well is the design thinking. And you getting more of a sense of how
+what you're working on might fit into a creative process going from
+a concept to final piece. For that, taking advantage of classes
+at local schools and after school programs and universities
+that are really helping you to see not just how to solve something
+with the specific machine. [SOUND] Ultimaker has an incredibly
+warm and inviting community. You can go to ultimaker.com to see the
+site and learn about the recent products, but you want to make sure to go on into
+the forums and go to YouMagine and see all these exciting projects that people
+are doing and then sharing with the world. >> Thank you for your time, Matt. >> Yeah, thank you. >> Great job. [MUSIC] [SOUND]

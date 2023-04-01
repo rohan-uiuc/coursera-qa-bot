@@ -1,0 +1,190 @@
+[MUSIC] Hi, at this point you probably have a good
+understanding of what 3D printing is and how 3D printers work. You've also seen our MakerLab. What we'd like to do now is show you
+some of the people who use our lab, the gurus, the students, and
+our general walk-in customers. Each of these folks have it, their own individual story of how
+they turned their ideas into objects. Let them tell you that story. >> Hi, I'm Cameron. I'm from Chicago, and
+I'm studying engineering mechanics. >> Hi, my name is Arielle. I'm from Cape Coral, Florida and
+I'm studying entrepreneurship. >> Hi, my name is Scott, and
+I'm from Southern Illinois, and I'm studying aerospace engineering. >> You guys ready? >> Yep.
+>> Let's get started. [SOUND] Hi Cameron. >> Hi Eric. >> Thanks for joining us today. >> Not a problem. >> Could you tell us
+your 3D printing story? How did you become interested
+in this technology? >> Through one of my organizations
+on campus, Makers UIUC, I had the idea of getting a team
+together and working on a project where we could scan people from head to toe and
+build 3D-printed models of them. And so that was where I really started
+getting involved in 3D printing. And I started doing some research, I started using the modeling software
+that I learned as an engineering student. And we worked on that project, and I got a lot of experience
+working with 3D printers. [SOUND] So I've made all sort of things,
+from fixing little objects around my house to different objects that
+I've made for my design classes. One of my favorite projects was this
+product, which is a prototype for a detachable roller skate. So there are two pieces, and
+the bottom piece attaches to the wheels of a roller skate and
+the top piece would attach to your shoe. And so you could attach and
+detach them whenever you wanted to, and you could walk around or
+skate around campus. I printed this out. It went through probably 10 or
+11 iterations. It's made up of four different parts. My team and I kept printing model after model until we
+got something that was semi-functional. [SOUND] Each piece that we have, the two
+main pieces and these two locking hinges. The only part of this that isn't 3D
+printed is two little pieces of paper clip that are connecting the objects together. >> Is that just a regular paper clip? >> Yep, yeah, just something I
+grabbed off my desk to make it fit. [SOUND] I'd like to continue working
+on it, continue making better models. The fit isn't exactly perfect right now,
+as most projects are with 3D printing. You have to keep working at it,
+so I'd like to keep building it, actually get it on a skate. We designed it so that it could be used
+with pretty much all the skates that are out on the market right now. So we'd like to start using it, and maybe even developing it into a small
+business if it really worked that well. [SOUND] It was probably about $5 or
+6 total in materials, which really isn't that much. A lot of it is hollow inside, so it's just really the structure around
+it that is what you can see here. >> So even affordable for
+a college student. >> Definitely, definitely. That was our goal. [SOUND] It's a really exciting experience,
+because it's not like you're going into a store and you see
+something that that's something I want. That'll work for my needs,
+and you go get it. It's something that you have a need for,
+and then you have the ability to
+create exactly what you want. You have all this customization, and you get to have 100% input
+on what you're creating. And that really gives you a lot of power
+to develop some really great things. And watching those products come to life,
+watching an idea that you had in the back of your head just print out in front of
+you, it's a really, really cool feeling. [SOUND] I think it's a really
+awesome opportunity that anybody taking this course has. It's a very new technology
+that's coming out, and not a lot of people know about it. And the more that you're
+learning about it now, the more exciting it'll be as
+the technology improves in the future. So I'd definitely be excited about the
+opportunity that you have right now, and take full advantage of it. [SOUND]
+>> Well hi, Arielle. >> Hi. >> Thanks for joining us. >> Anytime. >> Could you tell us a bit about your 3D
+printing story, how you became interested? >> So I became interested in
+3D printing through a course that I took at the University of Illinois,
+in the College of Business. It was taught by Vischal. And so this course was just
+an introduction to 3D printing. I knew nothing about 3D printing
+before I took the class. So I learned everything I know from there. And that's just how I got started. [SOUND] I had no training
+in engineering or design whatsoever before
+I took this course,. And I'm starting to kind of dabble in both
+of them, and I really, really enjoy it. It's just a really nice change and
+mix up from my typical business classes. So it was just something that I
+thought would be a good hobby. But it kind of turned into something
+that I want to pursue as a career now. [SOUND] We had an assignment in class
+to bring an object to get scanned. And I'm on the racing wheelchair team
+here at the University of Illinois. And we use these really special gloves
+that we make by hand in order to propel our racing wheelchairs. So I thought it would be interesting
+to try and scan a glove, because it has really complex geometries that are matched
+to each individual racer's hands. So I thought it was a really
+interesting concept, and something that I would like to try. So I was able to scan it and then print the very first racing wheelchair
+glove here at University of Illinois. It worked really well, surprisingly. I wasn't really expecting it to
+be extremely durable or anything, because of the material. But it turns out that it's very,
+very durable. And now four or five people on
+my team are able to use them for marathons that they push and
+during practice. And it's been very successful,
+which is pretty surprising. [SOUND] So we make the gloves by hand. And so then when I went into the lab and I used the 3D scanner to scan
+the glove that I had already made. Then I took that scan file and cleaned
+it up in a program called Geomagic. And then I was able to export it and then print it on a MakerBot in the
+printing lab at University of Illinois. This glove is really, really incredible
+because it's so much cheaper than the gloves that we were previously making
+by hand, and it's also so much lighter. And so the original gloves
+would cost about $350 to make. And then these gloves cost about $4 to
+make, which is an incredible price drop. The part that's most important for
+functionality for my team is the weight. The original glove
+weighed about 174 grams. This one weighs only about 70. So we also were able to cut the weight by
+more than 50%, which has greatly impacted speed and turnover for our stroke,
+for how we push our racing wheelchair. And it's also decreased injury,
+because the less weight that it is, the less stress it puts on
+our tendons in our wrist. [SOUND] I am working with other
+people on my wheelchair racing team. And so I'm teaching them how to use
+the software and how to use the printers, just so that way, after I leave they'll
+be able to continue doing this and making gloves for all the wheelchair
+racers here at Illinois in the future. So I would love to be able to take
+scans of people's hands from all around the world, and
+then have them send me that scan. And I could produce a customized glove and be able to ship it to
+them across the globe. [SOUND] I think 3D printing is really
+revolutionary because it places a ton of power with the consumer. And so no longer do we have to
+rely on manufacturing units and large corporations in order to get the
+kind of products that we need at home and any use, for sports, for
+home use, for education. And so now we can just
+create these objects on own, which I think is incredible,
+because there's so much potential there. And there's just so
+many things that you can do. [SOUND] When I first introduce
+people to 3D printing, I usually lead them to Thingiverse and
+let them just explore. Because when they start exploring on
+Thingiverse and see all of the different creations that other people have made,
+I think that kind of lights a little spark of creativity in them and
+inspiration in them. And so then they kind of think of ideas
+that they would like to produce or that they would like to make. And then I kind of start
+them on basic software, just using the MakerBot desktop interface,
+and then using Meshmixer, or programs like that, just because they're
+very good introductory programs. And any advice I have
+would be just to try it. Because a lot of people get intimidated
+and they're like, I could never do that. It sounds very complicated. But it's definitely not, coming from someone who knew nothing
+about engineering at all before. And now it's a passion of mine,
+I would say. It's definitely really, really doable. [SOUND]
+>> Hi, Scott. >> Hi.
+>> Thanks for joining us today. Can you tell us a bit about
+your 3D printing story, how you became interested
+in this technology? >> So I began using the 3D printers
+because I was trying to be creative. And I didn't want to buy a phone case for
+my iPhone. I didn't want to spend $40, $50 on
+one that was just going to wear out. I wanted to be a little bit more creative. So I visited MakerLab one day. And I actually had my own design that
+I had modeled using a CAD software. And I printed it out at MakerLab, and
+I paid for it, and it didn't fit. I went back to the computer lab and
+I remodeled it, adjusted a little bit. I went back to MakerLab and
+I printed it out, and it didn't fit. But I went back to the computer lab and I adjusted a little bit more,
+and then this third time it fit. And it wasn't the perfect fit, but it fit. And after a couple more iterations,
+I was able to get a perfect fit. And at that point,
+I started to put my own designs into it. And I was the guy who had the 3D-printed
+phone case with a bunch of different cool designs. [SOUND] I've made all sorts of stuff. And a lot of stuff is for either broken
+belongings that I have that I want to extend the product life of,
+or things for my friends. And just one example is,
+here I've got my calculator. And it's a pretty expensive calculator. And at one point I lost the back to it. I tried doing all sorts of stuff, but
+the batteries kept falling out, and there's nothing to do. So one day I thought,
+well, why not 3D print one? So I went to my friend and I asked to
+borrow his back to his calculator, and I was able to
+replicate it using a ruler. And just a couple iterations,
+about three iterations, and I was able to replace
+the back to my calculator. And now my batteries
+don't fall out anymore. [SOUND] I could have bought
+one from Texas Instruments, but I would rather not do that. Because it feels really good, and
+it's really, really cool to do things yourself and to build things yourself and
+to just have power as a consumer. And that's what I think is the biggest
+pro of 3D printing at this point in time. A lot of stuff, there's a lot of marketing
+towards building your own things or DIY projects. But I think the biggest thing,
+in my opinion, is being able to fix your things
+without having to buy new things. And especially if you have sentimental
+value towards the things that you have, your belongings,
+you want to repair them yourself. And actually,
+it creates even more sentimental value. And so I've noticed,
+as I work at the MakerLab as a guru, whenever clients come in and they're able to fix their belongings with
+either 3D models that they find online, something that I've modeled for them, or
+something that they've modeled themselves, they always have a smile on
+their face when they walk out. Because they know that they've
+made an accomplishment and they've fixed something themselves,
+something that they care about. And now they care about it
+even more because of it. [SOUND] There are three
+aspects to my job at MakerLab. The first one is open hours. So during open hours, people can come into
+the lab and they can print themselves. And I'm there to help them print and
+guide them along the way. And a lot of times, they come in with
+their own models that they've designed by themselves, or they just print from models
+they find online on various websites. And so my biggest role in that aspect
+is just working with the printers, using the technology. And the second aspect of my job is
+the modeling services that I do. So clients will come in oftentimes with
+either designs they have on paper, or just ideas, or
+a broken something from home. And they say, can you help me with this? Can you model this for me? And so of course I can. And so I take their designs home, or if they don't have designs
+then I think it up myself. And I bring it back to the lab and
+I print it, and we see if it works. And if it works, that's great. And if it doesn't work,
+we try again, and we meet and we figure out how we can make it
+work better, and we do iterations. And that's one of the biggest powers
+of 3D printing, is the ability to do iterations quickly, and
+do rapid prototyping for things like that. The third aspect to my job as
+a guru at Illinois MakerLab is the workshops that I do. In these workshops,
+we teach how to model, so from basic to advanced modeling softwares. We teach people how to 3D scan. And we teach people how to use
+the printers, and how the printers work. [SOUND] For people who are just starting
+out with the 3D printing technology and they're using design softwares,
+I would suggest to just start tinkering. Tinker at home,
+a lot of the software is free online. And anything from Autodesk,
+if you're a student, is free. There are 3D printers everywhere,
+at universities, at libraries, at schools. Just start building things. And eventually, if you're not inspired
+initially by something you found online, you'll soon realize something that
+you always wanted to build, or something that you've
+always wanted to make, or something that has broken at home
+that you've always wanted to fix. And it'll become a hobby, it'll become a pastime, and
+you'll get pretty good at it from that. >> As you just heard from these three
+stories: from Arielle, from Scott, and from Cameron, 3D printing is easy,
+empowering, and enables you to make things
+you couldn't buy in a store. I hope these three learner stories
+help you find your own personal learner story and inspire you
+to turn your ideas into objects. [MUSIC] [SOUND]

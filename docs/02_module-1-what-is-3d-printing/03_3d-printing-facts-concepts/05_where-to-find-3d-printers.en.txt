@@ -1,0 +1,46 @@
+[MUSIC] Now let's talk about where
+you can find a 3D printer. Hopefully, by now you're intrigued enough
+to want to try 3D printing for yourself. That's great, the only problem is that to
+try, you'll need access to a 3D printer. Fortunately you have a number
+of different options. First of all, you could buy a 3D printer. Although there are a variety different
+printers that you could purchase, we recommend that you
+start with FDM printer. This is the safest and least expensive
+form of 3D printing hardware. If you're on a tight budget, we recommend
+taking a look at the Printrbot. That's printrbot.com and
+printrbot has a number of printers you can purchase for
+as low as $300. If you have a bit more money to spend,
+we recommend the Ultimaker printer, which we use in our lab. And this typically retails for
+about $2500 US. However, since Ultimaker is a partner
+in specialization, certified learners will be able to purchase this
+printer at a discounted price. There's also a wide ranfe of options
+between the Printrbot and the Ultimaker. Our additional resource page
+includes links to several good 3D printer reviews to aid
+you in your purchase decision. Now if you're not quite ready to buy
+your own 3D printer, that's okay, there's still a variety of ways you can
+try out this technology for yourself. If you're connecting with the university,
+you should check to see if your school has a 3D printing lab, many of them
+do, and let me give you a few examples. In the US the University of Arizona,
+the University of Tennessee, the University of Utah have all set up
+3D printing labs quite recently, and students, faculty and
+staff can use them at a very low cost. If you're not connected
+with the university, you can perhaps find a 3-D printer
+at your local public library. For example, the Harold Washington Library in downtown
+Chicago has a great maker's space filled with several 3-D printers that anyone
+can try just by having a library card. In addition to libraries, hacker spaces
+are a great place to find 3-D printers, and also learn more about
+the growing maker movement. There are thousands of hacker
+spaces around the world, you could easily find one near
+you by browsing hackerspaces.org, in fact Maker Bot grew out of a hacker
+space in Brooklyn known as NYC resistor. Other great examples of hacker spaces
+include the Electro Lab in Renece France. Makers in Mumbai India and my favorite,
+Sector 67 in Madison Wisconsin. Although hacker spaces typically
+charge members a monthly fee, most are happy to give you
+a free tour of their facilities. Now if you don't have a university,
+library or a hacker space with a printer close to you, don't worry,
+you still have a few options. You might be able to find somebody
+who owns a 3D printer and is living close by,
+by browsing the website 3Dhubs.com. If this doesn't work, you can access a 3D printer remotely
+using a variety of 3D printing providers. They're located on the web, including
+3Dhubs Voodoo manufacturing and shapeways, we have information and links to all these
+providers as well as some offers for discounted printing through them
+on our additional resources page. [MUSIC]

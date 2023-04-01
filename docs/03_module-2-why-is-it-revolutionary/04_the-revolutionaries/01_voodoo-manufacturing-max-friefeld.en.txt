@@ -1,0 +1,141 @@
+[MUSIC] We're here in Brooklyn, New York to visit a brand new
+company called Voodoo Manufacturing. Don't worry, we're not in any danger. This is good voodoo, not bad voodoo. In essence, this company is a new
+startup that has a whole series, over 100 desktop 3D printers,
+that they use to help both companies and individuals turn their ideas into objects. We'll be meeting with
+the co-founder Max Friefeld. Let's go see if we can find Max. Hi, Max. >> Hi, Eric. >> Thanks for meeting with us today. >> No problem. Tell us a bit about how you began
+in this 3D printing domain? What's your 3D printing story? >> The first time I used a 3D printer
+was in high school, actually, and that's around the time I figured
+out I wanted to be an engineer. And so I was taking an elective
+course with a high school teacher whose name was Mr. Carpenter. And he was an engineer
+at Northrop Grumman, which was near where I
+went to high school. So we had a 3D printer, and
+I was printing brackets for robots that we were making
+as a part of this class. The 3D printer we had was
+a Stratasys Dimension. So it's like a $25,000 machine. And at that time, 3D printing was
+just this magical, unaccessible, engineer's technology. Little did I know at the time,
+but just a few years after that, MakerBot was going to come out
+with their first 3D printer. Voodoo Manufacturing, we've been
+around for about six months now. I met two of my cofounders
+when I was in college. And then we started a 3D
+printing software company that we ended up selling to MakerBot. After MakerBot bought our first company,
+which was called Layer by Layer, we worked there for about 12 months. And during that time, I was put in
+charge of a piece of software called the innovation center management platform. It's like a manufacturing,
+like, process management tool. When you have one printer on your desk, it's really easy to plug it into your
+computer or run it off an SD card. But the minute you start getting to 10,
+20, 30 printers in a room, managing what they're all doing and who's print is on
+which printer is actually very difficult. And so we built a piece of
+software to help with that. All the printers are connected over USB,
+and they're networked. It goes into one cloud-based basically web
+site where you can view all the printer statuses, start prints, move jobs between
+printers, and track all the statistics. So we built that software
+while we were at MakerBot, and that's how we kind of got
+introduced to this idea of lots of 3D printers in a room
+used as a manufacturing center. In May of this year, we spun out
+Voodoo Manufacturing from MakerBot. We have a partnership with MakerBot. We bought 127 Replicator 2s,
+Replicators, and Z18s, and
+built this factory here in Brooklyn. There's a world record for the largest number of printers in
+a room at any given point in time. But this is the largest
+factory of 3D printers. What we find ourselves constantly focusing
+on is how to remove the startup costs that go into manufacturing. When you start an injection mold,
+you have to get a mold made. You have to pay for all this
+changeover time as they remove and replace plates in a giant molding machine. There are no economies of scale. On the reverse side of that,
+there's no $2,000 startup cost. The first one costs as much
+as the 1,000th one to make. Once you get to a high enough volume,
+everything should be cheaper. That's a great notion when you're
+supplying hundreds of thousands of parts to customers and clients. But when you’re trying to get off
+the ground and you just have a prototype, it’s very prohibitive, because you can't
+get started without these huge costs. We're calling it bridging the gap. We're trying to bridge the gap between
+a prototype and mass production. Mass production being whatever it is for
+your product. 1,000, 5,000, 10,000, 100,000. It takes a lot to get to
+that 100,000 number, and we want to make that as easy as possible. We have a few different types of clients,
+I'll maybe pair down two categories. The first one is like an advertising,
+marketing type customer. They'll come to us with an idea for
+a new marketing campaign. And the campaign hinges on
+this one physical product. Maybe let's just say it's
+like a big golden trophy, and it's totally custom, and
+they want it to have their brand on it. How do you get this made? They have no idea. So they reach out to us. We work with them and then we essentially
+design and build this trophy from scratch. And we'll have it gold plated and
+everything for them. And it's more cost effective than any
+other option that they would have had. There's no other way for them to
+get that thing made except with us. The other type of customer that we
+work with is like a hardware startup. Just image the average Kickstarter
+company making a new hardware product. We work with a company called
+BotFactory for example. And BotFactory makes
+a digital circuit printer. On your desk, just like a 3D printer,
+you can print circuits and connect your integrated circuits to your
+resisters to your capacitors to your LEDs. Right there, each of one of these circuit
+printers has ten brackets that we print. So they're printing 30,
+40 of these printers a month, and it just doesn't make sense to go for
+injection molding yet. I think without a question, 3D printing is
+going to enable anyone to basically make things that they couldn't make before. So the democratization of
+manufacturing is here to stay. Whether or not manufacturing is going to
+be something that's really distributed to be totally localized I think has yet
+to be seen. I think of it more like
+the United States versus China, really. It's more of like a country level scale. The advantage of the service that
+we provide is that it's fast. And that's something that you can't
+overcome when you're developing with somebody who is a week away
+on a boat or something like that. So that's going to keep it localized,
+I guess, is the speed and the importance of that speed when
+you're developing a new product. Our clients, often,
+they've heard of 3D printing and they found our name because of that and
+then they reach out, really they're looking to us
+to tell them what's possible. And we have this amazing
+stable of designers that all actually worked at MakerBot
+in a former career. And they will sculpt any
+design out of nothing. I mean, they're artists, actually. We usually give, once we get started,
+it's about a week for design including all the iterations. And then we can do up to 10,000 parts for
+a project in two weeks. We try to keep everything
+in less than a month. With 127 printers, each printer
+can make however many parts a day, getting you to 10,000
+actually isn't that hard. >> And
+this could be a profitable business? >> Absolutely.
+We've been profitable for the past three months. When I think about that, I try to imagine in 2010 what I
+would have said about 3D printing. I think a lot of the energy that
+went into the home 3D printing revolution I would say starting in
+the late 2000s has transitioned into something closer to
+what we're doing today. If you look at a company like MakerBot or
+Ultimaker, they're really focused on education, they're focused on engineers,
+and trained people. It still takes a lot of
+work to use a 3D printer. It's not click of a button,
+make me some tennis shoes. The biggest, most important
+applications of 3D printing today, and what I see on the horizon
+are all about using 3D printing to solve a manufacturing problem that
+just, like, wasn't solvable before. So if you look at Boeing, they're making
+end-use parts that they're putting on airplanes, and
+they're printed out of titanium. And this is a very expensive process,
+but because they're lighter, more efficient brackets and parts, it pays
+for itself over the lifetime of a plane. So that is just straight up economic reasoning behind using 3D printing
+instead of traditional manufacturing. For us, the same thing applies
+to low-volume manufacturing. We make plastic parts, something
+that would be injection molded, but you don't have the volumes to
+justify those upfront costs. By the time it makes it into everyone's
+daily routine, the technology's going to be so different that I can even imagine it
+functioning somewhere in your life, but you're not really using it that way. It's just like your microwave. You don't care how the microwave works. It just heats up your food. A 3D printer, maybe it makes a product
+that you'd otherwise buy, or maybe it makes a piece for
+something that repairs itself and automatically gets put in place. I don't think, people don't buy things
+enough like can be 3D printed today for you to buy a 3D printer. I think we're maybe like 50 years out from
+the day when the average thing I buy can be 3D printed. When we started, we had a metric
+ton of filament for MakerBot. That's what we started with. We've been slowly working
+our way through it. But we print about 500
+spools a month of plastic. >> And this is PLA? >> PLA, yeah. We have 30 plus colors
+in stock at all times. So we have about 100 3D printers in here. And right now we're just finishing
+up a bunch of prints for e-NABLE, which is a foundation started out
+of Rochester that prints functional prosthetic hands for children born missing
+fingers, missing parts of their hands. It's a great foundation. We're donating 150 hands for
+Autodesk University in early December. >> Wow, that's great. >> Yeah, so these are 100 limited
+edition statutes of Blue, the velociraptor from Jurassic World. Just released on DVD in October. it came out over the summer. And they gave these to the top 100
+super fans for Jurassic World, and then forbade us for making any more. So. I mean, when I started, I just started
+following all the 3D printing blogs and I still read the exact
+same ones every day. 3Ders.org is a pretty basic one. 3D printing industry is another great one. You'll see three or four stories every day
+that give you a link to a company that's doing something interesting
+built on 3D printing. And you just quickly learn how
+much is going on all the time, how fast everything is moving. It's just incredible, that's the best
+way to find out what's going on. For us at Voodoo Manufacturing,
+we're all makers, I guess, and we're really interested in working
+with and learning from other makers. And If you are interested
+in what we're doing or you have ideas or questions, I really
+just want you to reach out and say hi. All of our customers start
+with a phone call and we just love talking about 3D printing. >> And where can our learners
+go to contact you and find out more about
+Voodoo Manufacturing in particular? >> Just go to voodoomfg.com, and
+you can find everything there. >> Okay. Well, thank you for your time. >> Thank you, Eric. [MUSIC]

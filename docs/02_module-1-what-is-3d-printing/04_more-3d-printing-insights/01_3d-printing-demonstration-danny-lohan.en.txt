@@ -1,0 +1,171 @@
+[MUSIC] Hi.
+I'm joined by Danny Lohan. Danny is a graduate student here
+at the University of Illinois, and was one of the first gurus we found
+on the online MakerLab back in 2013. Danny knows more about 3D printing
+than just about anybody that I know. I thought he'd be a great ambassador
+in terms of showing us how to turn your ideas into objects. We go through three steps. First of all, how to take an idea and
+create it using a 3D modeling program. In this case, Dan will be demonstrating
+very quickly a program called Fusion 360. >> That's right. >> Second, how to prepare that digital
+file for printing on a 3D printer. And finally, how to actually take
+that file, put it on a printer, and come out with a finished object. Danny, what are you going to
+show us how to make today? >> Today, I think we will go
+through making a jet airplane. The reason I choose this object is
+because the software, Fusion 360, makes it really easy to
+model parts such as this. >> Danny,
+what's the first step in this process? How do you go from an idea
+to an object like this? >> The first step is to choose
+the appropriate software and as I mentioned,
+today we're going to use Fusion 360. >> Fusion 360 is an Autodesk product. >> That's right. >> It's one of the most advanced
+modelling programs out there. >> That's right. >> We're actually, if you stick around
+with the rest of the specialization, in the software portion, the software
+course of our 3D printer specialization, you actually get the hands-on
+instruction by Jeff Smith who works for Autodesk and is a Fusion 360 ambassador. You should be able to, by the end of that course, learn how
+to make things like this, right Danny? >> That's right. >> Go ahead and take us through the steps. >> Sure. The first thing we're going to have
+to do is open the software package. This is the icon for Fusion 360. If we click on that,
+it'll start opening the software. Now what's unique to this software
+is it's actually cloud-based. >> What does that mean? >> That means you'll need some internet
+connection to login to the software and through that connection and your account, all your part files will be saved online
+>> Are there advantages to being online? Could you share your files with people
+working in other parts of the world? >> That's right. Fusion 360 makes it easy to collaborate
+with people around the world or locally when working on a part file. >> Okay.
+Now what do we have here, Dan? Looks like we have a topographical
+map without anything on it. >> This is the user interface for
+Fusion 360. The reason I'm using Fusion 360 to design
+this airplane is that Fusion 360 doesn't work like traditional CAD programs,
+where you have parametric modeling. It actually uses something
+called T-splines. You can think about it like sculpting. We can start with a block of material,
+say clay, and we can pull and morph it until we get a shape like
+the airplane in just a few minutes. I'll show you a quick example. If we create this tool,
+we enter the form environment. In the form environment,
+we can input objects and modify those basically free form. Here we have an object. One thing you would need to do is define
+how many faces and edges are in this part. You can do that with
+the dialogue box presented. >> Now what's a face and what's an edge? >> An edge is represented by the line and four lines connected together
+usually represent a face. Beyond the creation tool, we can use the
+modified tool which has a wide assortment of modifications we can use to change the
+shape and sculpt this into an airplane. We can directly pull, push, and modify this object with
+simple clicks of a button. Once we have our desired faces
+selected by clicking the alt button, we can extrude this face
+by selecting one of this outer rim of icons,
+we can resize the objects or faces. This way, we can increase the size
+of our object by molding it. In order to create the wings, we can
+select one of the surfaces or more and use the extrude function
+to pull that surface out, resize it and reposition it. We can do the same on the other side for
+the second surface. By doing similar procedures, we can repeat this on all the surfaces to create
+different features on the airplane. >> Are there any tests in
+Fusion 360 to let you know that the actual design can be 3D printed? >> What's really nice about Fusion 360 is
+if you create this whole model in the form environment, it is guaranteed to be
+watertight and ready for printing. You do not have to take additional steps,
+like you might with other software, to make sure that you
+can 3D print your part. >> What is watertight,
+what does that mean? >> Watertight means that
+there is a closed surface. You can imagine dropping
+this airplane in water, water would not go inside the airplane. >> And to print an object,
+it should be watertight, correct? >> That's right. >> Why don't you go ahead and take us
+through the steps in terms of moving from this finished 3D model in a Fusion
+360 to the next step in the process, which is preparing the design file for
+printing. >> What you need to do is go into the file
+menu, and click the 3D print button. >> A 3D print menu item. >> That's right.
+>> Makes it easy. >> From here, we can select the object,
+make any modifications you might want to it regarding resolution and
+output it directly to a STL file. >> Now STL is the PDF of 3D printing,
+right? >> That's right. >> Other programs besides Fusion
+360 such as Tinker CAD or Google Sketch Up, for example,
+will also produce STL files. >> That's right. And that's the output when you take that
+STL, and the next step is to prepare that in a 3D, it's called a slicing program,
+which prepares the file for printing. >> That's right. >> The reason we do that
+is because these programs, even though Fusion 360 was designed with
+3D printers in mind but these programs are creating 2D images that are not ready
+for actual three dimensional printing. In essence, what they're lacking is the command instructions that tell
+the printer, the print head, where to go. >> Right. >> How do we take that STL file and
+put that into the slicing program? >> Sure. Each 3D printer comes with its own slicing
+software, so the Ultimaker specifically, uses a software called Cura, and
+we can open Cura by clicking this icon. >> You can download Cura for free? >> That's right. Slicing is the essential step between
+your 3D part file and a 3D printed file. What slicing software does is it
+takes the part file you have, and it will cut it into
+a large number of layers. You can imagine taking a slice with
+a chef's knife of your 3D part. >> Okay. >> On each of those layers, it will trace
+the path that this end effector takes to draw the part on each layer. By successfully drawing each layer,
+eventually, the printer will print the part. This is basically making the recipe or
+cookbook for this particular print file. >> Okay.
+That's a great description. >> We can open the airplane file and
+it places it on the build plate, the area on the bottom is
+called the build plate. As long as your file
+fits within these bounds, it should be able to
+print by the Ultimaker. When the object is imported,
+it might have the wrong orientation, we can change the orientation by selecting
+the object and clicking the rotate button. There's a lot of customization
+when using Cura. One thing you might
+note right off the bat, is it shows the amount of time that
+it will take to print the part. >> Okay. >> What's important here is if
+you adjust the, say resolution, make it higher fidelity,
+it will increase the time. But you can do certain things such as
+increasing the amount of material inside the part, so adding an infill,
+making it partly hollow, and this will decrease the time
+it takes to print. You can adjust the settings based on
+what you need to get a print that's reasonable in time. Another thing we can do is change
+the size of the object we want to print. If you click the object,
+there is a scale button. Right now, we have 100% scale,
+so it's one. If we resize the object to say half scale, we will notice that the time is
+significantly reduced for print. >> Danny, while this is working,
+what are some of the main considerations that someone has to keep in
+mind when engaged in this slicing process? What are the typical things that are
+adjusted besides the size of the design? >> The number one thing I
+would consider is whether or not your product needs support material. For example, this airplane has wings and
+you can see that these wings are not touching the plate, so
+the 3D printer can't print in thin air. In order for
+it to actually make this part, you have to include some material
+under it so that it can print on top. What the printer actually does is instead
+of creating a solid support structure, it makes a very loosely meshed support
+structure so that it's easy to peel off. >> I just take that off
+with some pliers or a file. >> Right. In the basic tab, you can see that
+there's an option for support type and you can put support structure
+wherever you want and whatever form. >> Where would you put the support for
+something like this? >> For this,
+I would put supports everywhere, since there are a lot of locations that
+have some overhang or floating material. >> With 3D printing,
+we can make object completely solid or completely hollow, or anything in between. Should we talk a bit about that infill? >> Since this a display piece and nothing structural, we can actually
+remove a lot of the material inside. Inside the basic menu,
+there's an option for fill density. Right now, it starts at ten for default, that means 10% of this
+object will be filled with material. >> So 90% of it will be hollow. >> That's right. We can change the setting to speed up or
+slow down the print, depending on what your need is. As I mentioned, since it's only aesthetic, we can drop this down to 5% and
+print it that way. >> It sounds like the infill consideration
+is influenced by two factors. One, the amount of time that you have. >> Right.
+>> If you're pressed for time, perhaps you make an object
+a bit more hollow. >> Right.
+>> And second is what you plan
+to do with the object. >> Right.
+>> Is it just sitting on your desktop and people are looking at it,
+then it can basically be a hollow object. >> Right.
+>> Versus if it's a bracket that's holding something heavy, you may want something
+that is a bit more solid inside. >> That's right. >> Are there other considerations? How about actually you mentioned
+the resolution of the print? >> Sure,
+one way you can change the quality of the print is through
+the basic menu again. You have several options,
+the first of which is the layer height and that's going to describe the amount the
+print head moves up between each layer. >> Okay. >> If you decrease this height, you'll
+get a higher resolution on the z-axis. >> What's the typical resolution level? >> That depends on the type of printer. >> Typically, in the MakerLab, we print most of our objects at
+a layer height of around 250 microns. What that means is that four
+layers equals one millimeter, or in other words, each layer's only
+a quarter of a millimeter thick. As a point of reference, the width of
+a sheet of paper is about 100 microns. The UItimaker, as well as the Makerbot, will print something as fine
+as a width sheet of paper. But typically, we don't do that because
+the parts that we use look pretty good actually at 250 microns and
+we don't want to stick around for days to have the object print. Anything else we need to do, Danny, before
+we actually start the printing process? >> No, at this point, we can go ahead and
+select this button to save the tool path. It'll actually save it directly
+to our SD card, in which case, we can use that to print it. >> It's saved, and you're going to
+take the card and do what with it? >> Once we have the part on the card, we
+can take it and plug it into the printer, in which case, the printer's going to read
+the part from the card and begin printing. >> Both the Ultimaker as well
+as the MakerBot use an SD card to read the file to print. >> That's right. [MUSIC] Here's our jet airplane. Nice job, Danny. >> Thank you.
+>> It looks great. >> What we're going to have to do is
+remove this airplane from the platform and remove the support material. What we'll have left is
+the fighter jet on its own. >> Here it is, Danny. What do you think?
+>> I think it looks good. >> Great job. Danny just took us through the steps on
+how you can turn your ideas into objects using 3D printing technology,
+in this case, to make a plastic airplane. In other parts of this course,
+you'll see lots of other examples of people using this technology to
+revolutionize the economy, all the way from making 3D printed earbuds to making
+prosthetics for children around the world. Hope you stick around
+to see these videos and learn more about this
+fascinating new technology. [MUSIC] [SOUND]

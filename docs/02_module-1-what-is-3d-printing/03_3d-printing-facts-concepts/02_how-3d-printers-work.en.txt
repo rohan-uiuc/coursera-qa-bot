@@ -1,0 +1,60 @@
+[MUSIC] Now that we've discussed
+the history of desktop 3D printing, let's examine how these printers work. The most existing manufacturing
+technologies, such as CNC machining, create objects by starting with
+a large block of material and using a tool to cut pieces away until
+you're left with the object that you want. In contrast, 3D printing is
+an additive manufacturing process. Instead of subtracting away from
+an existing piece of material, 3D printing starts with a blank slate and
+then adds materials to it. This additive process is
+driven by a microcontroller, which guides a set of motors that moves
+a print head in three dimensions. The movement of this print head is guided
+by a digital design file which is read by the printer's motherboard. As the print head moves, it softens or hardens material in an additive manner
+from either the bottom up or the top down. Although all 3D printers imply
+additive process are actually several different types of 3D
+printing technologies. The additional resources page will
+describe these various technologies in more detail. So, I'll just focus on the three types
+of 3D printing that are currently or will soon be affordable for
+the desktop user. The first is the process known as SLA or
+Stereo Lithography. Now this was the first 3D printing
+technology, and SLA creates objects by using a beam of high intensity light,
+such as a laser, to harden a soft resin. Let me give you a demonstration. So I have this laser pointer,
+and to simulate resin, I have a container filled with dish soap. So essentially,
+the SLA technology works by shining this laser on the resin in a successive
+manner until an object is built. SLA creates small objects that
+have really high resolution that prints as low as
+25 microns per layer. However, these objects
+are not very strong. So SLA's a good technology for
+making jewelry or small display objects
+such as chess pieces. A good example of a desktop SLA
+printer that's currently available is the Formlabs printer
+which cost around $3,000. The second technology is a technology
+known us SLS, Selective Laser Sintering. Now this technology has
+some similarities to SLA, both use a high intensity of light. However, instead of hardening a resin, SLS printer uses light to
+center a powdered material. Let me demonstrate. So again, I have our laser pointer,
+and instead of having resin, we have a container filled with,
+in this case, powdered sugar. We imagine this could be anything,
+powdered metal, for example. And using the laser, which we'll move
+over the powdered material left and right, up and down, and then a print
+bed will move it or move it down. You'll have a 3D printed object. SLS printers create objects that
+have both extremely high resolution, as low as 10 microns per layer,
+but are also very strong. These printers are capable of also making
+objects from a wide array of materials, including metals. So SLS is a good technology for creating precision objects that need to be
+strong and durable such as airplane parts. At this point, there are really
+no true desktop SLS printers, the closest thing is the blueprinter. This printer employs SLS for plastics,
+but won't currently print metals. The blueprinter costs about $30,000. It's a bit higher than most desktop
+printers, so it's not quite home ready. However, many experts believe
+that a lower cost version of an SLS printer is
+only a few years away. The third and final example is FDM,
+Fused Deposition Modeling. FDM is, by far, the most common
+form of desktop 3D printing today. Now FDM, which is what the Ultimaker is,
+creates objects by melting filament and extruding it through a small nozzle
+that moves in three dimensions. Let me demonstrate with
+this spool of twine. So imagine this is the filament,
+this twine and the printer is melting it and
+layering it in a successive manner. FDM printers are capable of making
+moderately-sized plastic objects that have good but not great resolution. Typically, these printers print about
+as low as 100 microns per layer. That's about it. So at this time,
+this is a good technology for making objects that have to be fairly
+strong but don't have to look perfect, such as replacement knobs for an old
+appliance or homemade toys, for example. The Ultimaker is a good example of
+a portable desktop printer which costs, again, about $2,500. [MUSIC]

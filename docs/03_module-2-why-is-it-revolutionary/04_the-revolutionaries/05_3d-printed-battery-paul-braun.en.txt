@@ -1,0 +1,164 @@
+[MUSIC] Hi. I'm standing here in front of
+the Material Science building, here in the insuring quad of
+the University of Illinois campus. We're here today to talk
+to Professor Paul Braun. Paul's a professor of material science and
+engineering here at the University of Illinois, and it's famous for being part
+of the team that 3D printed a battery. Now this battery doesn't
+look anything like this, but it performs a similar function. We're going to talk to Paul about
+this battery, about 3D printing, and how this technology will
+change our lives forever. Please join me. Hello Paul, thanks for
+meeting with us today. >> My pleasure, thank you. >> Could you tell us a bit about yourself. >> I've been at the University of
+Illinois since 1999 as a, on the faculty. Although, I actually was here from
+1993-1998 as a graduate student and before that was at Cornell. After finishing my PhD at Illinois, then
+I went to Bell Labs for a year, which is really when my work transformed from
+things that would say more fundamental chemistry to thinking a lot more about
+the technological impact of materials. And then, obviously, came back here
+a year after that, where I've been, since I joined as an assistant professor. [SOUND] So my home department is
+material science and engineering, and then I have a in chemistry, and we do
+some work in the Beckman Institute and the MRL and
+a number of the other labs on campus. Everything is made of something, and so material science is what
+can you make things out of? How can you improve
+the properties of materials? It could be, how do I make stronger
+glass for say, a smartphone? How do I make faster computer chips,
+more efficient light bulbs, better materials for
+doing drug deliveries? You can really think about
+materials science as the applied aspects of the chemistry and
+physics. Where maybe we don't care as
+much about the fundamentals, we still pay attention to them. But, how can we make these building
+blocks that impact the world? [SOUND] 3D printing, the way that
+we think about it, is very broad, in how can I three dimensionally
+structure materials, in what we would call deterministic ways. And so, some of our work on batteries,
+we start by doing electroplating. And so, we electroplate nickel. So, a very simple metal. These are easy to electroplate. But we electroplate that using
+a very complicated polymer, that when we expose the light
+generates some 3D super. Structure. It's akin to a lost-wax process. But then some people will directly print
+much more complicated materials to start with, and so using print heads that can
+extrude out materials that can withstand very high temperatures, or
+that may cause cells to grow in certain ways if you want the three dimensionally
+print scaffold for a human organ. [SOUND] We've been really excited by
+this idea of 3D printing of a battery, and we realized if you zoom in
+on the inside of a battery, really what you have is,
+you have three important things. You have something that
+can carry the electrons, because batteries have
+to have electricity. You have something that can hold
+onto the energy storage material, so somehow a battery stores
+energy through chemistry. So that's in a material. And typically today, it uses lithium ions. So I have to have some way to
+move these lithium ions around. And so what you need is, you need a three
+dimensional structure that can conduct electricity, hold onto the active
+energy storage material, and provide a really good way to move the ions between
+the plus and minus sides of the electrode. And so
+conventionally when people make a battery, they do it by casting and
+they get a random assortment of materials. And sometimes you have good networks and
+sometimes don't, and so the performance varies. But instead, if you could really build it
+much the way you think of a city where you have super highways and local roads and
+places for the buildings. And so, you'd define the architecture
+to give you really efficient eye on transport, really efficient electron
+transport and put the energy storage stuff just where you want it,
+you can go into new performance metrics. Maybe really high power or
+better energy, fast charging. So we started doing this in large form
+batteries and this is something we've taken really far and now we have a start
+up company working on that, but then, we said, wouldn't it be really interesting
+if you could make small batteries that you could print and maybe put them
+directly on a silicon a computer chip. And so, we had to think about
+new paradigms in materials, because normal battery materials
+use high temperatures. Grow some processes that aren't
+compatible with computer chips. So we realized, we needed a way to
+be able to 3D print the positive and negative terminals directly
+onto some substrate. We were able to do this
+using optical patterning. So taking this light sensitive polymer. Exposing it with light. When you expose it
+multiple beams of light, the way that the light interacts,
+creates a 3D pattern in the polymer. We then dissolve a way the polymer of that
+hasn't reacted with the light, and so that leave behind what
+looks to be like a sponge. We take that sponge and
+then we do electroplating, the same way people use to
+put chrome on a bumper. We put it in solution and
+we fill all the pores with metal, so this is where the electrons can go. Then we remove the polymer,
+which was the house initially. And now,
+we do a second electroplating process, and a third electroplating process. One grows the positive
+side of the battery, one grows the minus side of the battery. And you end up then with fingers
+of positive and negative, if you look down on the battery like this. So now they're really close together, which means you can move
+the electrons fast. They have lots of pores which
+helps you move the electrons, but they're all connected with metal. So using that, we were able to make a battery which
+was only a few millimeters on the side. So something like a tenth
+of an inch on the side. And about five times
+thinner than a human hair. And this battery could generate enough
+power to light up an LED and flash an LED. [SOUND] This is not going to replace say,
+a laptop battery. Where we think is that,
+if we can move power down to the chip, now you could have a really small chip. Maybe a little bigger
+than a grain of rice, and then that would have its own battery
+built, right in with that chip. Which means, if you took that grain
+of rice sized object, and you say, sprinkled it around and
+each one had a little radio transmitter or a little blinking light on it,
+you could power those wherever they are, without attaching any wires
+off to the outside world. You're not going to have a lot of power,
+this is batteries. Power is proportional to volume, so you
+want a lot of power you get a big battery. You're not going to drive a car
+on a tiny little battery. But if you make a battery small,
+and you still want a lot of power, you need this 3D structure, so
+you can move ions and electrons quickly. And so, that gives you the ability
+to pulse out, and send information. So you could have this just sitting
+all around and then, once a day, it would send just a little burst of
+information that is only possible, because that micro battery's
+sitting right by the computer chip. [SOUND] We'll take the applications
+really in two space. One is the idea of
+three-dimensionally structuring or 3D printing of the internal
+components of a battery. You know, we see that applying at sort
+of all [INAUDIBLE] scale, so even for sale a large car battery,
+if you can control the internal structure, that may give you the ability to
+charge the car in say 5 minutes, because now you provide really fast
+ways that the ions can move and the electrons can move and
+you can put power in to that. And the other regime is when
+the batteries get very small. And here, we can really push
+the performance metrics to the absolute, because we then control every detail
+of the three-dimensional structure. And the applications in that space
+are things like, small pills that you might swallow, that have enough power
+to be able to transmit a radio signal. Out, or potentially deliver energy
+in the body, to do some therapeutic. And, you can make that
+a much smaller device, because the battery can still give
+you a lot of power when it's small. There's the idea of basically,
+the sensors everywhere, so instead of walking around a building and saying, I'll
+pick the five places I want to sensor, I make them so small that
+they're basically just the dust. And so
+you can sprinkle them where you'd like and they can transmit until the battery dies,
+and if they're small and environmentally friendly, you can sweep
+them up, and maybe they just rust and disappear, so they turn right back into
+the iron that's mined out of the earth. Those are just a list of
+possible applications. [SOUND] I think you really will be able
+to think about changing the design space of products, where today,
+if you have a battery-powered product, you generally have to size
+it to fit the battery. The microelectronics have
+really been miniaturized but the batteries haven't been
+equivalently miniaturized. So now,
+instead of the device overall function and shape being limited by
+the size of the battery. Now, the battery scales
+with the electronics. We think if you're going to build
+miniaturized electronic devices, the best place to put the power,
+is to put it right on the chip. [SOUND] If I think about
+the work in Batteries and other, like why would you want to print this? First of all, there's, of course,
+the customization aspect. When you make one cell phone for
+the masses, you have to limit function in exchange for
+mass production. Can we give ourselves this diversity of
+customization and retain the function. Because I don't think anyone's going to
+a really kludgy cell phone which is four times bigger, just so
+it has an extra axes of an accelerometer. But maybe they would be very interested if
+the cell phone was designed to be certain shape that fit on their body or
+in their clothes in a certain way. And that's not what the next person has,
+so I think it's customization for function will be the,
+where we can really get legs. Customization for aesthetics is fun,
+but maybe not give us the legs we need. To find out more about what we're doing, a great place to start is
+just my department webpage. So at University of Illinois, the Material Science department
+has a webpage that lists faculty. I give a number of talks that
+are sometimes more public interest oriented and
+some of these can be found on the web. Then I also have a startup company
+working on batteries named Xerion, and they have a webpage that talks about
+some of that technology evolution. For detailed inquiries,
+people often reach out directly. [SOUND] What I really
+enjoyed is that this field is one that nobody is an expert. That it's a new area, it's a growing area. People have made contributions
+coming in from everything, from really hardcore physics
+through the chemistry through design and engineering. And I think it's really the diversity and the open-endedness of the field that
+allows really the human imagination to sort of run wild, and
+then reduce it to a tangible object. And that's different than most areas of
+engineering, where you go to a catalog and you can pick out this gear and
+this gear and that. And if they don't fit,
+you are out of luck. I think it really opens up
+the human imagination and how we can make the things the world uses. >> Thank you so much. >> Hey, thank you.
+>> You did a great job. [MUSIC] [SOUND]

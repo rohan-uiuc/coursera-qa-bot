@@ -1,0 +1,162 @@
+[MUSIC] Hi, we're here somewhere in Brooklyn,
+New York. We're here to talk to Aaron Roy. Aaron's the Head of Strategy and
+Operations for a new company called 3DPrinterOS. Essentially, they're providing
+the operating system that enables 3D printers to work together. And for Also, you'll be able to use
+them in a more efficient manner. it's a really interesting concept and
+a great company. I think you'll enjoy hearing from Aaron. Well, Aaron, thank you for
+sitting down with us today. >> My pleasure. >> Could you tell us a bit about how
+you got interested in the 3D printing? >> I had the chance to see
+a 3D printer in action. It was about three to four years ago. I was drawn to it like a moth to a flame. I feel like I stared at it for
+about 45 minutes, trying to wrap my head around the fact that a physical object
+is being created out of thin air. And from there I just dived in head first. The first thing I did was I read
+Fabricated by Hod Lipson and Melba Kurman I think. It absolutely got me on this path
+of thinking I couldn't get out of. It was just absolutely set into wanting
+to explore additive manufacturing. Another thing I then discovered was,
+Makers by Chris Anderson. Back to back those books put me in
+spot where 3D printing I had to get my hands on it. So actually what I did was I
+started volunteering like crazy. I volunteered at the 3D print show,
+with Maker Fair New York and with a Fab lab in Newport,
+Road Island, Fab lab Newport. This gave me the chance to actually touch
+machines, to get hands-on experience with some different types of 3D printers,
+and I've never looked back since [LAUGH]. [MUSIC] At 3DPrinterOS what we've done is we've
+built the world's first operating system for 3D printing. Operating system is a very
+vague world in so many ways. 3D printing right now,
+there's hundreds of different machines. All of them have very machine specific,
+very fragmented, very complicated workflows. For a school or an enterprise to bring in
+3D printing and have to relearn or reteach admins on workflow every single time, it's
+just very difficult and very frustrating. We really set out to unify
+those different things. Put a platform together that can
+connect across different systems. And, not only that, deliver better
+results than machine specific hardware. By focusing only on software, we've been
+able to explore a lot of the problems that played the 3D printer
+workload in general. What we've realized is a lot
+of groups in today's world, actually have 3D printers,
+but what to do with those, the training that goes into using them,
+the ability to track statistics. Measure all [INAUDIBLE] 3D
+printing investment, and share that access, it wasn't really there. So we've really, really,
+focused on providing whole solutions. You know, asking what are the problems of
+a business and then trying to solve those. But really the big thing for us is working with different
+educational institutions we've realized schools might have printers, but maybe 5,
+10, students had access to two printers. To us that was very frustrating because
+they have these great machines but they're not using them. We built our software to kind of flip flop
+them where we could take two machines, share those to twenty users,
+a hundred users, a thousand users, an infinite amount. And put data behind it for an admin to be
+able to say we have two thousand hours of printing across a hundred different
+machines over the past three months. Puts them in a position where they
+can really grow their program. On the Enterprise side, we've been able to grow our software
+around clients such as Jabil Circuit. They're the third largest contract
+manufacturer in the world. Over $18 billion in revenue per year. We were able to go in there, work with their engineers,
+who have had five, $1 million machines. But really only 5 to 10 people using them,
+and instead bring in desktop FDM machines and be able to get 18 or
+20 or 50 engineers with access. because at the end of the day, more
+utilization means faster prototyping and more measurable results. [MUSIC] We've seen 3D printing being used
+differently than maybe we did two years ago. Where before it was pure prototyping,
+we're seeing now, with material science advances,
+attempts at attacking real large problems. One thing that I know a lot of groups are
+working on is the access to materials such as PEEK and materials that can be
+really disruptive manufacturing wise. Not just prototype materials. PEEK has similar tensile properties
+to a material such as aluminum. This, as it becomes more prevalent
+in the desktop 3D printing world, we think can really change the way that
+3D printers are used in an enterprise or an education or even a desktop realm. Because one of the biggest complaints
+we sometimes hear is well, you can only make things in plastic. As desktop 3D printing can move into other
+types of materials and that changes. Even a year ago today printing
+in blended PRAs the copper, the brass fills, the gold fills,
+the bamboo fills, that wasn't here. That wasn't really a possibility. And a year from today I'm really intrigued
+to see where the materials are again. Those advances push
+the whole industry forward. So 3DPrinterOS is one of the biggest areas
+of focus for us as well as education, and you know we've had the chance to work with
+some of the leading institutions in the US and around the world on how
+they're using 3D printing. One of those in particular,
+Duke University has really focused on enabling
+access beyond your standard groups. So instead of focusing on just
+engineers or just designers. They've tried to open up 3D printing
+to a broader of their student body. This is allowing people to not just
+work in 3D but start thinking in 3D. Which as a shift in mindset, really allows
+the industry to be more widely adopted. You have 500 students who've had exposure
+to 3D printing is a lot different than just 10 engineering students. Thinking how we can design for additive
+manufacturing is a completely different mindset in some ways than subtractive. With 3D printing,
+we're adding from the ground up. We can build innovative shapes and
+curves and objects. It's a whole different way
+of design thought, and the more people who think that way,
+the more innovation, the more cutting edge breakthroughs
+we'll see in this field. [MUSIC] The 3D printing ecosystem today is, I would describe it in some
+ways as like a Holy Trinity. We have material, research, and science. Then we have hardware research in science,
+and then we have software. Hopefully tying these
+different pieces together. That ecosystem,
+at some points we see limitations because as hardware needs to advance, it also
+needs software to unleash that power. And as far as we can
+push on the hardware and software side, we need great materials
+to really complete that picture. I was reading just before you
+guys got here today about full color 3D printing and what would
+that take on an FDM printer, and I'm really interested to see,
+you know what groups of e3D and what material scientists can do
+to crack those types of problems. At the same point, you know for standard desktop 3D printing
+we still have a lot of work to do. In regards to making sure
+printers all have WIFI and making sure printers are reliable. That they're user friendly,
+that they're easy to use. And on the software side, you know the
+problems we're working on tackling are, how can we make slicing better? How can we be more
+predictable in print times? How can we make networking printers
+together and making them easy for large groups to access simpler and
+put data really behind that? A fourth problem that's part of the
+ecosystem, that needs to be tackled, and I know is being addressed. Is design, you know,
+A the access to great design content, 3D printable content, but
+B optimization of existing content. So many files that are created are not
+necessarily ready for 3D printing. In the tackling of that problem and
+making them more available and more accessible, will also be able to
+push forward all three other fronts. In my dream world in five years from
+today we'd see hardware be at a point where it's an easy work flow no
+matter what machine was adopted. We'd see it at a point where
+an enterprise can bring in hopefully 3D printing in the same way
+they approach a modern PC. It's something that's a tool in
+the belt of the manufacturing workflow. Same thing in education. 3D printing can be something
+that is taught with regularity, not something that's an elective we
+look at with interest and intrigue. 3D printing should be part of
+the regular conversation because its potential to upset the $12
+trillion manufacturing is very real. So in five years I do see
+it making real progress on those fronts same thing
+from a material side. I think in one year, we'll see advances in materials that
+we never even thought possible. Whether that's the printing of metal on
+desktop in a safe and efficient manner, or it's the breakthrough new
+materials that can be 3D printed that weren't possible through
+some other manufacturing method. That can be used in a desktop environment
+to change the way we approach manufacturing. And from a software side, you know
+there's work to be done but I think as the computing power inside the machine
+gets better, we can build better software, better firmware that you know that
+unleashes even more of that power. [MUSIC] It took a while for
+PCs to make it in every home. I think there's a lot of work that would
+have to be done on the design optimization side to get a 3D printer in every home. Because even if the machine was easy
+to use, even if the software was super simple, even if the materials were
+incredible, we have to have great content. I think teaching the ability to make great
+content, unlocking the access to great content we have available today,
+that's another issue in itself. So, I hope in 10 years I feel more
+optimistic about that possibility. [MUSIC] If I were to recommend to someone just
+starting out on 3D printing relation where they should begin that journey, I would
+start with, first off get it front of it. 3D printing is like seeing is believing. Find a class, find a meetup,
+find a FamLab, find anything you can to put
+yourself in front of a printer. You have to see it to really
+appreciate its power. Number 2, look at the great resources
+online, obviously the Coursera, the different components. There's a lot of resources becoming
+available online on the topic. Number 3, I'm biased, but I will pitch
+that Hod Lipson, Melba Kurman book, it's a little older now, but Fabricated,
+really for me, highlighted the potential of the industry and besides that go
+to the conferences, go to the shows. There's a lot of ones
+that have free admission. Seeing this stuff in action, meeting the people in it,
+still a really small industry. You could join today,
+you could join a year from today and really make a huge
+difference in 3D printing. This is a ground level industry. Really, you can make a monstrous
+difference even today. >> So,
+we're at the beginning of the revolution? >> I think that we're at the very
+beginning of the revolution. I think we need more people within it. I think we need great minds in it and
+I think we need people who really want to tackle and take on and
+solve some of these larger scale issues. For an industry that's poised to take off,
+there are few and far between where you see the ground level and can reach out and
+touch it this is that industry. The manufacturing industry is a $12
+trillion market, and really 3D printing, the ability to take one pound in and
+put one pound out, only use what material is there and create from that, it
+has such unlimited disruptive potential. I would say, please join us [LAUGH]
+>> I agree. [MUSIC] >> Please visit us at 3DPrinterOS.com,
+there's a wealth of information and resources on what we're going,
+some of our goals and initiatives for this year out there. We also teach classes in New York, in person, more information can be
+found on our website or at learn3D.nyc. That's a free class in New York where we
+try to teach at Brooklyn Public Library. Agin, put the printers in front of people. Let them see it, let them interact. And we also do webinars. Same thing on that same site. Feel free to join us on a free
+webinar as well, on 3D printing. [MUSIC]

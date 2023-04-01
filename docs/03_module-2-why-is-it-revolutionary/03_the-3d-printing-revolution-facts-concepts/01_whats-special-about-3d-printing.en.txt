@@ -1,0 +1,75 @@
+[MUSIC] Hi, in this video, my goal is to examine the revolutionary
+potential of 3D printing. In particular, we'll take a look at
+what's special about this technology, and how 3D printing will
+change the way we live. In addition, we'll take a look at some earlier
+examples of this revolution in progress. And where 3D printing is
+headed in the future. One of my favorite quotes about 3D
+printing came from Neil Gershenfeld. Neil's a professor at MIT, founder for
+the Center of Bits and Atoms. And he said about almost
+10 years ago that, 20 years from now we will have Star Trek
+replicators that can make anything. This quote nicely illustrates the
+revolutionary potential of 3D printing. Although professional Gershenfeld's
+prediction may seem a bit hard to believe, he's not alone. Over the past three years, Jeff Bezos,
+Jeffery Immelt, and President Barack Obama have identified 3D printing as
+a revolutionary new technology. And in fact, according to several leading
+media sources including Wired Magazine, The Economist, and the New York Times,
+3D printing will lead to a new industrial revolution and
+dramatically change our economy. Our additional resources page contains
+links to a number of books and articles about the 3D printing revolution. In particular, I recommend this book. Makers, by Chris Anderson. Chris was the former editor and chief of
+Wired magazine, which writes a lot about 3D printing and the maker movement and
+this is one of the first, one of the best books,
+about the maker movement more broadly, but also how 3D printing
+will change our economy. I recommend it highly. Now let's take a look at what's
+special about 3D printing. 3D printing has a number of advantages compared to traditional
+manufacturing techniques. I'd like to focus on four of them. The first advantage is Sustainability. 3D printing is a very sustainable
+manufacturing approach in contrast to traditional subtractive manufacturing
+techniques such as laser cutting or lathing, 3D printing produces
+very little material waste. On average a 3D printed product
+such as this uses about 90% less material than an object made
+using subtractive manufacturing and thus the material costs of
+3D printing are quite low. Second advantage is Self Assembly. Traditional manufacturing techniques have
+a tough time making complex products. Usually, complex products
+are composed of multiple parts, have to be made separately, and
+then assembled together, often by hand. In contrast, 3D printing allows
+us to create complex objects that come out of
+the printer self-assembled. Let me show you a couple of examples. I'm holding here some
+3D printed chain mail, and this chain mail came out of
+a desktop printer already assembled. So all these different
+parts of the chain mail were put together while
+being made by the printer. There's another way to make something
+like this using traditional manufacturing techniques. A second example is this
+assembled gears and this gear piece has a number of gears that
+turn, as you can see and this, again, came out of the printer self
+assembled just like this. A third example is General Electric,
+GE, which makes airplane jets. Here's an example of a fuel
+injection device for a large jet engine that used to be
+made with 26 separate components. [UNKOWN] prints this as one single piece
+using advanced 3D printing technology. There's no other manufacturing process
+capable of making these kinds of objects without some form of
+post production assembly. A third advantage of 3D
+printing is Digitization. 3D printers create products
+from digital files. So this technology blurs the divide
+between the digital and the physical. A digital object is no
+different than a digital song. It can be shipped electronically,
+downloaded, and printed locally. So eliminates the cost,
+financial, temporal and environmental of shipping
+of physical product. A fourth advantage is Scope over Scale,
+traditional manufacture techniques such as injection molding had the advantage
+of economies and scale. In essence as the number of units produced
+increases, their average cost decreases. Now the notion of economy as a scale is
+one of the foundations of modern economic thought and a key reason why most of the things that
+we own are mass produced by big companies. 3D printing throws this concept out
+the window because 3D printers start with a blank slate, there are no set up costs. As a result it's just as easy
+to make 100 different objects as it is to make 100 identical objects. So there are no more economies
+of scale in 3D printing. Instead, 3D printing provides economies
+of scope, by providing a way to make many different objects at a cost that's
+much lower than traditional manufacturing. Economies of scope actually
+favor smaller firms and individual manufacturers,
+because these smaller firms and individuals have lower overall fixed
+cost compared to a large company. So 3D printing allows a small startup to
+easily compete with a large corporation. Due to these four features,
+3D printing is a democratizing technology. It allows nearly anyone
+to become a manufacturer by lowering the cost of entry. No need to start a company or
+own a factory. All you need is an idea,
+some knowledge of 3D design software and access to a 3D printer. Our specialization is designed to help
+you with all three of those things. [MUSIC]

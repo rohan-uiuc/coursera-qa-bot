@@ -1,0 +1,39 @@
+[MUSIC] Hi, in this video my goal is to
+provide an overview of 3D printing. In particular, we'll examine how 3D
+printing began, how printers work, the things they make,
+where these things come from, and the type of materials
+that they're made from. We"ll also discuss how you can get
+access to a 3D printer for yourself. You may be surprised to learn that 3D
+printers have existed for about 30 years. The first 3D printer was created by
+a fellow named Chuck Hall back in 1986. Chuck came up with the idea for 3D
+printing while using a ultraviolet light to harden paint that he was
+putting on a coffee table. Using this experience as inspiration,
+Chuck went on to invent a process for making 3D printed objects using
+a focused beam of ultraviolet light to harden thin levels of a resin
+in a successive manner. He called this process stereo lithography,
+and it's still a main 3D
+printing technology today. Chuck also invented a number of other
+important aspects of the 3D printing process, including the STL file,
+which is the dominant file format for nearly all 3D printed designs. We'll talk more about STLs
+a bit later in this course. He also founded one of the world's
+leading 3D printing companies, a company called 3D Systems. And since the mid-1980s, a number of
+other 3D printing technologies have been developed and a variety of new
+firms have entered the marketplace. The basic technology is not new. However, until recently, 3D printers
+were very large and quite expensive. These printers were typically the size of
+a refrigerator and cost $100,000 or more. Thus, these machines were mainly used
+by large firms for creating prototypes. Then something happened a few years ago. The patents for several types of 3D
+printing technologies began to expire. As a result, a number of new firms, mostly small startups,
+began to enter the 3D printing market. The most notable new entrant was a company
+called MakerBot, which was founded in Brooklyn in 2009 and was the first firm
+to sell an affordable desktop printer. In fact,
+I have one right here in front of me. This is MakerBot's first machine, called
+the Cupcake, this was their first model. My son and I built this machine back
+in 2010, and it still works and really formed the foundation for
+the democratization of 3D printing. Since 2009, a number of new firms
+have entered the desktop 3D printer market including Formlabs,
+Printrbot, and Ultimaker. And you'll be learning a lot more about
+Ultimaker during the course of this specialization. As a result of these new entrance, the size of a 3D printer has shrunk
+from a refrigerator to a microwave. And the price has fallen from
+$100,000 to $2,000 or even less. As a result, the number of 3D
+printers is quickly expanding, and this tool is rapidly
+becoming democratized. [MUSIC] [SOUND]

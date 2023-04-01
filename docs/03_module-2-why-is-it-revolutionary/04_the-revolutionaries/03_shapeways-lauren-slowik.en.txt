@@ -1,0 +1,155 @@
+[MUSIC] Hi. We're here in Long Island City, New York
+to visit a company called Shapeways. Shapeways was initially a spinoff of
+Philips Electronics in the Netherlands. They now have a branch
+here in New York and it's the world's largest
+provider of 3D printed products. In essence,
+if you send Shapeways your idea, they'll print you a 3D product in
+a variety of different materials. We're here to meet with Lauren Slowik. Lauren is a design evangelist, will give
+us a tour of the Shapeways facility and talk a bit about what Shapeways does and how they can help you turn
+your ideas into objects. Let's go see if we can find her Some things being printed. Finally, the entrance. Let's go see if we can find Lauren. I'm looking for Lauren. Lauren. >> Hey.
+>> Nice to see you, thanks for joining us. We appreciate you taking your time. >> Of course. I was in graduate school
+from 2011 to 2013. Around the time MakerBot
+was making a big splash, they were based in Brooklyn, I'm in New
+York, so it was this hometown excitement. The school had gotten a few of them and at the same time, the Microsoft Kinect
+sensor became available, and I started writing code to create a 3D
+scanning clothing sizing software. So I started on the other end, I started by working with the real world
+and bringing it into the computer. A natural evolution to that was
+now I've got this 3D data in my computer and now I understand
+I can get it back out there and that's when I knew I had to
+get my hands on a 3D printer. I was fortunate enough to get a MakerBot
+2x, which has a heated bed and can use ABS, and so I ended up doing
+my graduate thesis research on how to teach a novice to use 3D
+printing and the novice was myself. I taught myself how to 3D model and
+I've been doing it ever since. It's kind of what I'm doing right now,
+it's 3D printing and its capabilities touch on so
+many different industries and so many different capabilities that my job is
+to kind of stand at the intersection of all of those and
+point people in the right direction. If you are a business person and
+you want to use 3D printing for prototyping, I can point
+you to resources that way. I work in Shapeways between teams and also with educators outside and also just
+people who are motivated to find out more about how they can use the exciting
+potential and help them realize that. Shapeways is the world's
+largest 3D printing service and marketplace and community. We started as a startup incubator at
+Philips Royal in Holland, in Eindhoven, and after a year there, we spun out
+as our own company, that was in 2008. We have a factory in Eindhoven and
+a factory here in New York City. We have two internal facilities and then we also use partner
+facilities all over the world. We offer printing services in
+over 50 different materials and finishes, including precious metals,
+porcelain, steel, plastics, high-detail acrylic, you name it, and
+we're always exploring new stuff. You should check out our pilot materials
+page, it's really interesting. We have a DMLS aluminum
+on there right now, as well as interlocking metals and
+some other new types of plastic. A big part of our mission and
+our service is including our community in the development of new processes and
+new materials, and really just giving people access to
+stuff that was really only accessible by high-end R&D departments
+from big corporations. Now we're giving access to that to just
+about anyone and that's what's the most fun, it's democratizing innovation and
+using the advantages of software platforms and connected spaces
+to give people that access. If you have a browser and
+an Internet connection, you're connected to advanced manufacturing
+factories all over the world. [SOUND] The starting point is
+they need a water type model. I'm sure you guys will cover that in the
+class but you need to use any kind of 3D modelling software to generate a model
+that is watertight and you can then create an account on Shapeways.com and
+upload that watertight model. It will go through some automated
+checks to make sure that it can successfully be printed. Once you place the order,
+we also have engineers and staff here who will manually
+inspect the model and the design and help you get it
+through the manufacturing process. Then it goes through several different
+steps depending on the material, polishing, finishing, at least ten people
+touch your model before it actually gets to you and then we ship it to
+you wherever you are in the world. If you're printing in our basic
+introductory nylon material, which we do the most printing of,
+white strong flexible nylon, we call it, that can take anywhere between
+five to six business days, from the time you submit the order
+until you receive it in the mail. The process is essentially the same. You're building up an object from
+the bottom up, layer by layer. What's different is the materials and
+how that material is fused together. With the large nylon centering machines
+that we use here in the facility, it's a powder material that
+started of in a flat bed and then the laser inside the machine is
+the precision element that creates layers. It does the same movement as an FTM
+extrusion head but rather than extruding material, it's a laser beam that
+melts the nylon to the previous layer. It's called selective laser centering. The advantages to that process over
+something like FDM, fused deposition, is that there's no support
+structure to remove after the fact. You can get away with sometimes even more
+complex form factors than you might be able to do on a desktop printer. I'm a huge fan of desktop printers, and those are indispensable for prototyping
+and getting those first ideas out. They make you a more confident designer,
+and so having access to them is absolutely important
+when you're learning how to do this stuff. We like to say is that we are making
+products, not just prints. These are finished goods,
+these are things that you can go and sell, we have our whole
+marketplace feature and they can go right from the factory,
+right to your end user. The Shapeways marketplace is essentially
+a space on the site where you as a user can begin to make your design available
+for sale, directly from Shapeways. We use our factory to
+become your factory and you can end up selling your products
+directly to your consumers from the site. Once you start an account,
+you have the option to open a shop and you can make your products available
+in any number of materials that it will successfully print in. Essentially, people can purchase directly
+from the Shapeways marketplace and you as the designer set the mark up. There's a base cost for producing an
+object, which is the price that you'll see as a maker on the site, and
+then you as the designer can say I want to make 20% more on this iPhone case and
+that price will adjust automatically. At the end of every month,
+you'll get paid. We have a huge reach on our social media,
+we do marketing. We've got a really great
+Christmas gift guide. We work with our community to help
+them become better designers and help them get exposure where they need. The software is becoming easier to use, the materials are becoming
+more consumer ready. When you compare it to traditional
+manufacturing, you can do some things that were previously thought to be
+somewhat almost impossible. Complex form factors and mass customization that would
+almost price themselves out of normal manufacturing suddenly
+become almost cheap in comparison. It enables this new style of design and
+then of course, just the fact that it democratizes
+access to manufacturing. When you try to do
+traditional manufacturing, you have make it worth the factory's
+while to produce your object, which usually means a minimum
+order of 10,000 or something. And then you as the designer or product
+maker have to cross your fingers and say, god, I hope I nailed this product,
+and 10,000 people actually want this. Instead, with 3D printing,
+you have a couple of different advantages. One, you can update your design as you
+learn more about what's working and what isn't because it's a model
+that exists in a software format. And two, you can do on-demand
+manufacturing, and this is a huge advantage for new designers because they
+don't have to have that minimum order. In five years, I'd like to think that we're going to see some huge improvements
+in consumer design software. Never before have the 3D modeling
+softwares that are out there been pushed to design directly for something
+that's going to exist in the real world. Most of the softwares
+we're using are either for 3D animation and computer graphics,
+developing a product for engineering that will ultimately be
+realized with a different process. Now we're seeing software
+developers connecting with the manufacturing process and
+making the software tools. Autodesk is a great example of this. They have their Pier 9 facility, and
+they're working with designers and incorporating that and we like to think we're doing
+the same thing with our processes. We share our pilot materials and programs
+with our community and take that feedback and try to improve to make it ideal for
+how people really are using this. A big change that we're going to see
+is the machines and the materials being from the ground up developed and designed
+with that type of use case in mind. The machines that we're all using now
+were created for rapid prototyping, which is great but they definitely have
+some limitations that when it comes to consumer products,
+people are expecting quality and lasting stuff that sometimes prototyping materials
+were never developed with that in mind. If you're not sick of my voice and
+face, I have a couple of free videos on our Shapeways YouTube channel,
+so YouTube.com/Shapeways. We have also partnered with
+a couple other platforms, so there's lots of resources, if you Google
+Shapeways tutorials, they'll be out there. I love instructables. If you're looking for project-based learning that can
+incorporate not just 3D modeling and printing but also other types of
+tinkering, that's a really great resource. If you're getting started and you're
+thinking about doing your very first project, one of the best resources
+is Shapeways.com/Materials because we go into deep guidelines
+about how each material behaves. How big you can go, how small you
+can go with those materials and those will often heavily influence the way
+that you start designing your objects. If you already know you want to make
+homewares or a piece of jewelry, that usually indicates you're going to use
+a particular type of material and knowing how the product is going to end up is
+a great place to start with your design. [SOUND] Understand that it's a process. 3D printing has been billed as this
+kind of push button, like a microwave, you put it in, ding, and it's done and
+that's really not how it works. Largely for two reasons, one,
+when you add a third dimension, you exponentially add other
+considerations when you're designing. Also, the industry is learning
+along with you at the moment. The machines are getting better, the
+software is getting better all the time, and oftentimes,
+you have to find your own way. Don't give up, I know it's going to be
+tricky to get that first product out but you'll be so proud of yourself and
+you'll learn a ton about how to design for the next time. >> Thank you so much. >> You're welcome. [MUSIC] [MUSIC] [SOUND]

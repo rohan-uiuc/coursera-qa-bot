@@ -1,0 +1,94 @@
+[MUSIC] Hi. As we discussed, 3D printing blurs the dividing line
+between the digital and the physical. As a result, with 3D printing
+technology we can easily customize and remix physical products. For many of us, this is a radical idea. Because physical products are typically
+made to have a specific form and are really hard to modify. Let me give an example. In addition to having small ears,
+I also have small hands. As a result, this product, the iPhone 6
+Plus, is really hard for me to grasp. So, I have this case, but
+it easily slips out of my hand. This would be nice if I could take
+a physical case like this and modify it to have hand grips. It would fit in my fingers more easily. Now, with 3D printing we can actually
+make this customization a reality. So, the purpose of this second exercise
+is to give you some experience remixing physical products
+in a digital form. So the purpose of this exercise is to take
+you through remixing to give you a better insight into the revolutionary
+potential of 3D printing. To do this exercise we're going to
+be using the Thingiverse website with a product called
+the Thingiverse customizer. Let me show you how that's done. To begin this exercise,
+you first need to go to Thingiverse.com. Thingiverse is really an iTunes store for objects which you can download
+thousands of designs made by others. You see on the upper right
+hand portion of the webpage, you can sign in if you have an account
+already, or create a new account. As you see we have an account already for
+our lab, that's what came up. If you don't have an account,
+simply click create account and you could enter in
+the appropriate information. It's pretty fast and easy, I'm just going
+to sign in to our maker lab account. Once you do that, if you go under
+the create portion of the web page, you'll see a pull down menu item for
+customize a thing. So click on that, and
+now you're into the customizer. And if you move down this page you'll
+see a number of customizable objects. You can pick any one of those. You can scroll down and more will appear. If you hit this blue menu option, you can see more, and
+also there is a search menu box. So I'm actually interested
+in customizing a wrench. You may be often in that situation where
+you're trying to fix something, and you have a wrench but
+it's not the right size for the job. This customizer can solve that
+problem by allowing you to create the specific size wrench for
+the job that you're facing. So I'm going to type in wrench into
+the menu bar and see what comes up. And we see here a number
+of customizable options. Let me click on this one. Customizable wrench by gr0b,
+that was the creator. And show you how this works. So you'll see an image of the starting
+wrench, of the starting design. This was a design that was uploaded by
+the designer that you can customize. To customize you will see this
+blue menu bar, Open in Customizer, just click on that. And then for each one of these there will
+be a number of either pull down menus or boxes which you type certain
+values to customize your thing. And as you customize, the blue image
+should change in a response to the values that you enter, or
+the menus that you pull down. So here with this wrench you can actually
+put in a message, such as your name, I'm going to type in my name,
+Aric's wrench, and you see that appears. You can also change the font. Let's see, they have basic,
+futuristic, and fancy. Let's try futuristic,
+see what that looks like. See the font changes. You can also change the size of
+the wrench itself, the nut size. And this is in millimeters. So, the starting value
+here is ten millimeters. Let me make it a bit bigger,
+make this a 12 millimeter wrench. You can also control
+the thickness of the wrench. How thick it is, if it's thin or fat. I'm going to make it a bit thicker so
+it's a bit stronger. So moving from a five millimeter
+height to same eight millimeter. And that gets a bit thicker. And finally, the length of the tool. Do you want something that's short? More compact? Or, or
+longer to hold in your hand more easily? It's now a length of ten. I'm going to increase that by pulling
+on this slider, moving that to 15. That looks a little bit too big,
+maybe move it back down. So how does 12 look? And that's the beauty of the customizer,
+you can easily change as you go. So, once I've modified
+my customize template to suit my needs and you're happy with what
+you have, just click on the bottom right. There's a create thing menu box,
+click on that. And you can actually give it a name. So I'm going to type Aric Wrench. And you'll see this box,
+Publish New Thing. You have an account, your design will be published under your
+name under your account on Thingiverse. So you'll be a published
+Thingiverse author. Please keep that clicked, because that's essential to our exercise,
+and create thing once again. You can actually go to your queue and wait as your product becomes
+processed on the cloud. So, as you can see here,
+the remixed object has been completed, and we have a picture of the object, and we have a unique thing number on the top
+in the URL that signifies this creation. And this would be uploaded
+onto your Thingiverse page since you have an account. Just like my wrench was uploaded
+to our maker lab Thingiverse page. Now let me tell you how
+to complete the exercise. It's very simple, first go to the exercise
+portion of the second week of the course. You see a number of entry boxes, and
+simply enter the required information. It will ask for three things. First of all, the object number,
+you can find that in the URL. So for example, this object,
+this wrench I created is object 1155912. Just enter that number into the box so we can actually see what you created
+by going there on the Thingiverse page. Second, please tell us why you
+picked that item to customize, what was your reason for
+picking that particular item. And finally please discuss
+briefly how this remixing experience made you feel,
+and what you think about it. Do you feel differently about 3D printing,
+for example, after going
+through this exercise. And once you do that,
+you're finished with your portion. What will happen next is your submission
+will be peer-reviewed by your fellow learners. And likewise you'll have
+the opportunity to offer comments and review of submissions
+made by your colleagues. In addition,
+if you happen to own a 3D printer, you can actually print out
+this customized design. We've already discussed how
+to do that in this course. If you don't have a 3D printer,
+you can look for one locally using 3Dhubs.com which lists the network
+of printers around the globe. You can also work through Shapeways,
+one of our course partners, and get your object printed in a variety
+of 3D printable materials. That's it,
+I look forward to seeing your submission. [MUSIC] As I mentioned, you could actually
+3D print your customized design. So we did just that. Here it is, my customized, 3D printed, Aric's Wrench, live in person. Now I just need something to tighten. [MUSIC] [MUSIC] [SOUND]

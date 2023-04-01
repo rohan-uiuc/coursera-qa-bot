@@ -1,0 +1,78 @@
+[MUSIC] Now, let's take a look at applications. How 3D printers are being used. The next course in our specialization
+will delve in more detail on this topic. So just wanted to give
+you a few examples here. At present, 3D printers are being
+used by many firms, not only for prototyping objects, but
+also for manufacturing them. For example, General Electric uses 3D
+printing to make thousands of parts for its jet engines. Also, Nike is working on
+making 3D printed shoes. And Loco Motors, a car company,
+recently 3D printed an actual car. In the US, most hearing aids and
+dental implants are 3D printed. And several universities and firms are working on technologies that may
+some day produced 3D printed human organs. For example,
+the University of Louisville recently announced that they hope to 3D
+print a human heart by 2023. We'll discuss this and
+several other 3D printing applications, in the second week of our course. Although, most desktop 3D printers will
+never make a car or a human heart, there are still lots of amazing things
+that could be made using low cost, desktop 3D printing technology. Provide some stories of what our
+students who come to our lab are using this technology
+to make everyday. We'll discuss this in
+the second week of our course. If you complete the specialization,
+you will be able to design and create things that you probably
+haven't even begun to imagine yet. That help guide you into how to think
+about the things that you can make using a 3D printer, please take a look at this
+3D typology which I developed a couple years ago with one of our doctoral
+students as a way of thinking about, what these tools can make. So my doctoral student and
+I examined 500 different objects that had been posted on the website,
+thingiverse.com. And we tried to classify these
+objects using a typology. So what you see here is the typology. It has two axis resulting
+in four categories. The first axis,
+the horizontal axis, is the type of product whether it's a new product or
+an existing product. The second axis,
+the vertical axis, is the degree to which the product is a standalone
+object that just works by itself. Or a component or
+a piece of a larger object. So we combine these two axis
+we have these four archetypes. So going from the top left,
+we have creations and what you see here is a grading dice. And this is a dice that has
+different grades, A, B, C and D and also a couple others. And this is an example
+of a new object that you wouldn't be able to buy in a store. And it works by itself,
+you just toss a dice so it's standalone. Moving to the right, we have the next
+category which are substitutes and they are simply objects that
+you could buy in a store. Instead of buying in a store, you would
+print it on your desktop, for example. So here we're showing a whistle. So for example, although you could buy a
+whistle in the store, if you were coaching your son's soccer game and
+it was 6 AM and the store was closed and you needed a whistle, printing it would
+be a convenient way to obtain it. The next category down to the right
+is something we call replacements. And what you see here on the right is
+this knob on the right was 3D printed for an old stove. And so, lots of things that
+we have something breaks and it's hard to find a replacement object. And now if you have a digital design or if you want to sketch the object in
+a 3D modeling program such as SketchUp, or perhaps even scan the broken piece,
+you can now print a replacement object. And the final category on the bottom left
+is something that we call solutions. And what you see here is
+a solution to a problem of trying to integrate two
+different toy systems. So this is called a duplo
+brio connector and the bottom it connects
+with Lego duplo blocks. And on the top across the top
+is the brio train track. So this connector allows you to
+integrate this two different but in compatible toy systems,
+so those are solutions. So we develop this classification and then
+we randomly picked 500 different objects on Thingiverse, and then independently
+my student and I each try to classify these 500 objects into 1
+of these 4 different boxes. So what do you think we found? Which category had the most objects? Well, let's take a look at that. So as you see here in this next slide that
+by far and away the biggest category, over half of these objects,
+work creations, and you see the percentages for
+the other three categories? And this is interesting because
+we have to think of 3D printer as creating existing products,
+and some individuals will say, why would I want to make my own whistle
+when I can buy within the store, well perhaps you couldn't
+if the store was an open? But that's really missing the point,
+the key point here is that 3D printing allows us to create new objects
+that have never been seen before. So the fact that the majority
+of these objects, 51% are creations is really interesting. This suggests that people
+are using 3D printers to create new-to-the-world products
+that have never existed before, and this is really the magic of 3D printing. I hope this typology has been
+useful in helping you think about the sort of things you can
+make with a 3D printer. As you can see, 3D printers can make
+a variety of objects, both those that have already existed as well as those that
+have never ever been made before. The possibilities are endless and the use of this technology is
+as broad as your imagination. I hope this overview of 3D printing has
+provided you with a better understanding of how you can put your imagination into
+action, and turn your ideas into objects. [MUSIC]

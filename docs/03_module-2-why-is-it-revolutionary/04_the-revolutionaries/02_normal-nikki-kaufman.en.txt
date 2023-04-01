@@ -1,0 +1,121 @@
+[MUSIC] Hi, we're in the Chelsea section of
+New York City, in downtown Manhattan. And I'm standing in an incredible
+new store called normal. And what is Normal? Well, this is Normal. You see behind me,
+this is Normal's current product line. They use 3D printed technology
+to make custom made earbuds. Made just for your individual ear. So we're going to be talking with
+Nikki Kaufman, Nikki is the founder and CEO of Normal. Talk about 3D printing, talk about Normal,
+how it got started, and actually do a demonstration
+in which a normal play will hopefully scan my ear and work on
+making me some custom-made earbuds. So come on back. Let's talk to Nikki. Hi, Nikki. >> Hi, how are you? >> Good.
+Thanks for meeting with us today. >> Thank you for having me here. >> Can we begin by having you
+tell us your 3D printing story? >> I've been an athlete all my life and
+I've never had earphones that fit. It's a normal problem that
+many of us experience, and I was a founding team member at
+the consumer products company, Quirky, where I was exposed to manufacturing and
+production and 3D printing. And during my time there,
+I got to thinking, can we solve this issue of ill fitting
+earphones in an accessible way? Because the process before Normal,
+actually you could get custom earphones, but the way you would have to do it was
+a very cumbersome, inaccessible process. But I got to thinking, can we do this
+in a more scalable way via 3D printing? And I started prototyping it in my
+apartment at the time, on a maker bot, and realized very quickly that I
+could go from just a photo to a customer fitting product. And that is when I launched Normal. [SOUND] 3D printing allows us to make
+a custom fitting product very quickly and very accessibly for
+both the consumer and the business. In other words, we can make Normals in
+under three hours at a price point, again, that makes sense for the consumer. They're $199. It's a premium product. But also something where it makes
+sense for us as a scalable business. In fact,
+it really is true mass customization. [SOUND] Mass customization actually has
+been around for quite some time, but it's traditionally very slow,
+expensive and near impossible to scale. So we're super proud of creating
+mass customization at scale in an accessible way. So we are actually the only company that's mass producing a consumer
+good via 3D printing. You can actually order Normals from
+anywhere in the world, anywhere, by downloading the mobile app, or you can come here to our factory, that's
+also our store, and also our headquarters. But no matter where in the world you
+place your order we make it here, and again we can make them
+in under three hours. [SOUND] You download the mobile app and
+it prompts you to grab a quarter or any coin because all we need is
+a reference object for scale. So you hold the coin here,
+you put your phone in front of you, and it talks you through taking
+a couple of ear selfies. So you tilt your head and the camera
+takes a few photos of your ear, and then you get to customize your Normals. So you choose one of seven different
+colors for the 3D printed part, as well as one of two colors for
+the custom carrying case. In fact, it's not just the head phones
+that are customized for you but the cases, as well. So we laser etch your name or
+your nickname onto the case and then it actually pops up for
+easy cable management. And we laser cut the negative
+of your Normals. So only your normals will fit
+in your ears or in your case. Basically you submit your order
+through the app or in our store. It pings our backend, and we basically
+do a little manipulation of that photo to turn it into the 3D
+file that then gets printed. So it takes a couple of minutes. It's mostly automated. There's a little bit of
+engineering work on our end. It gets sent to one of the printers,
+depending on where in the world it's going, when the customer needs it by,
+what color it is. We built this whole backend factory
+that dispatches it appropriately. It gets printed,
+which takes about an hour. And then, after it's printed,
+there's a little bit of post-processing. We clean it. So we remove the support material. We sand it down, and what I mean by that
+is we actually sand down the B-side, the part that goes in your ear. But we leave the stepping from 3D print on the A-side because we like to
+celebrate the fact that it's 3D printed. But the part that touches you,
+we want to be super, super smooth. So after we sand it down,
+we give it a coat of soft touch paint. So it doesn't change the color, but
+it just makes it soft to the touch. That dries. We audio test it, we put it in its
+carrying case, and put it in this box and then we ship it out to you. So that whole thing end to end
+again the hour for 3D printing and then about two hours or
+just there under for some post processing. [SOUND] So right now the printers
+that line the perimeter of our store are Stratasys machines,
+it's the Fortus 250 we have 10 of them. The reason why we print in
+the Fortus 250 is a few things. Number one, they print in AVS which we
+know how plastic interacts with the skin. A lot of earphones are actually AVS. And they print at factory quality,
+premium quality scale. They're super easy to operate. You don't see failures,
+they'll run overnight. They literally, with the price
+of a it's super, super simple. And again, when you're running a product
+that's using 3D printing at scale, these are absolutely
+the right printers for us. My hope really that someone soon
+could come into this store and for one is, it's 3D printed and
+then theres no post processing. So you could do it in an hour. Or it's 3D printed and takes 10 minutes
+and then they walk out the door with it. So we're not there yet but I hope to be. [SOUND] I like to describe
+Normal as a consumer brand. A lot of people mention the word
+Omnichannel when they talk about what we do because there is a physical component,
+there's also a mobile commerce component. The part that I think is
+super interesting and compelling is the fact that
+you can do the whole thing. End to end, one to one right here. because I think part of
+what makes Normal so powerful is that it's all in one location. And that was really important for
+me when we were launching Normal, to do everything all at once. I hope there's lots of other people
+working on 3D printing of consumer goods. I can tell you that at Normal,
+we are working on other things. We believe Normal to be a platform for
+customization. Customers and consumers, we want
+things that are built for us and for our bodies, and there's a lot of areas of the body that we could imagine
+could benefit from a custom fit. When we launched Normal,
+we called it Normal. And we don't mention
+headphones in the title. We're leaving it open to
+further product development. [SOUND] I cannot share what's next. Though I can tell you that
+we just launched today, two limited edition holiday partnerships. One with Rebecca Menkoff where we're
+making, actually, rose gold normals. And the way that works is that we 3D print
+in castable resin rather than the ABS and then we cast that out in
+actually 14 carat rose gold. And we're launching
+another limited edition version of Normals with Nike that's
+a custom color way for their Runner. [SOUND] I think they'll
+definitely be different machines. I hope again that it's a point where
+you can walk into a factory and walk out with a product. I hope that's far sooner than five years. In the last six months, I've realized something quite
+interesting about the product. I don't think that people necessarily
+buy it because it's 3D printed. I think people buy Normals because
+they're the best-fitting and best-sounding headphones. So it's very cool and
+it's very cool technology and it's fascinating to be able to educate. But at least right now, and it might be
+because not many people are using it for mass, I don't know that it
+hasn't gotten there yet. Like a lot of consumers they
+don't even know what that means. So it's a bit interesting, I think. I hope that there's more brands
+that are using 3D printing so that that does become a very
+important conversation. [SOUND] It's a super
+important piece of the story. When you walk in here the fact
+is that 30% of the people buy. And that's really, really high,
+given that we sell one item. And I do truly believe
+it's because we show them. We show them the process. We show them, we let them in. They understand it. A large majority of the folks that have
+walked in here have never seen a 3D printer before. We do a lot of events at night,
+both to get in athletes and do 3D printing meetups and everything, retail everything to get folks into
+the space, to get them expose what we do. [SOUND] So our website is nrml.com. So it's normal without the vowels. You can follow us on social
+media we're @normalears. And then, again, you can download
+the apps in the iTunes store or the Google Play Store. Just search for normal and
+it will pop right up, and lastly, if you're ever in Manhattan,
+please come visit us in Chelsea. It's 22nd Street between 6th and 7th and we'd love to have you at our factory and
+store. [SOUND] Keep making and stay in touch. I'm happy to be a resource to all of you. You can contact me directly,
+nicki@nrml.com, and thanks for including me in your course. >> Thank you for your time. [MUSIC] [SOUND]

@@ -1,0 +1,181 @@
+[MUSIC] Hi, I'm here in Youngstown, Ohio at the National Additive
+Manufacturing Innovation Institute, also known as America Makes,
+which is a lot easier to say. America Makes is a really
+interesting operation. It began in 2012, started by the Obama
+Administration as way to reinvigorate American manufacturing using 3D printing
+and atom manufacturing technology. Now America used to be a country
+that made lots of things. I grew up in a factory town. My grandfather made ball bearings for
+45 years. My grandmother worked in
+a clothespin factory. But over the past 15, 20, 25 years,
+you see increasingly less and less made by American companies. So America Makes is designed to
+reinvigorate this manufacturing ethos. It's a unique public and private
+partnership, again, founded by the U.S. Government. But you'll see filmed
+machines donated by large and small 3D printing companies, such as
+MakerBot, Stratysys, and 3D Systems. I'm here today to talk to
+you about Mark Cotteleer. Mark is a consultant for Deloitte. In fact, he's their specialist on
+3D printing item manufacturing. He's going to talk about
+the difference between the two and how what you're learning here in this
+course, about desktop 3D printing, can be applied to much broader manufacturing
+techniques at a factory scale. Let's go find Mark, and
+learn about additive manufacturing. Come on. Well Mark, thank you for
+taking the time to be with us today. >> It's good to be here Eric. >> Can you start off by telling us
+a bit about your 3D printing story? How you became interested
+in this technology? >> So I've been involved in 3D printing or
+additive manufacturing, you'll hear me call it
+additive manufacturing, at an industrial scale for
+about three years now. And Deloitte is one of the largest
+professional services firms in the world. We have a very advanced technology
+practice where we help our clients understand how to take both manufacturing
+and information technologies and deploy them in pursuit of
+value inside their businesses. And when we looked around and said what
+are the critical technologies that we're going to need to be able to help
+our clients understand for the future. Additive manufacturing,
+3D printing was clearly one of them. Additive manufacturing
+is not a new technology. The original process, stereolithography,
+was invented over 30 years ago. The technology used to be
+referred to as rapid prototyping. What we're seeing now
+is a bit of a breakout. The technologies have advanced to
+a point where the economics and the quality is sufficient to actually
+move into final part production. We have done quite a bit
+of work in aerospace and defense and in military applications. Trying to understand how additive
+manufacturing can be used to either enhance sustainment,
+that is the ability of planes to fly, of equipment to run very rapidly. We're looking at supply
+chain applications, so how do we manage what we call
+long tail inventory applications? So maybe I have parts that
+I have to serve clients for products that might be decades old. And if someone orders that part,
+maybe the toolings not available, maybe the supplier's gone out of business,
+maybe I don't even have a design for it, and I need a way to manufacture it. So we're working with clients to
+understand how can I rapidly produce parts in a lot size of one in order
+to service that customer. We're working with clients to help them
+conceptualize how they can create entirely new products. By using the design capabilities
+that are enabled by additive manufacturing to either simplify
+the number of components that go in. So I can produce all as one piece instead
+of having to assemble multiple individual subcomponents. Or maybe I can redesign to take
+weight out using lattices, or taking nonessential material out of
+different parts of the component in order to reduce weight, or increase performance. Or we're seeing applications where we're
+enabling entirely new business models. Lots of really new exciting application
+areas for this particular technology. We're just getting started. Deloitte has its history in
+things like auditing and tax. But we are in fact one of the largest
+consulting firms in the world, and one of the most respected. We have leading practices in analytics,
+in supply chain and manufacturing operations, in lots of
+different areas, it might surprise you. So people should check
+out what all we're doing. We are interested in this space, both from
+the perspective of the technology itself, so how is it that we
+deploy these machines? But it's also important to
+recognize that these machines exist within what we refer to
+as the digital thread. That is,
+in order to allow this machine to work, we need an entire technology
+infrastructure built around it. We'll help a company design its
+additive manufacturing strategy. We'll help a company figure out
+what components are appropriate for being manufactured using
+additive manufacturing. We'll help them choose the equipment. We'll help them identify other
+partners they want to work with, what is the software, how does that
+digital thread all go together. And we'll help them secure it
+by using our cyber security services to actually make sure
+that nobody can hack into it. Which, if you think about it,
+can be a pretty big deal. And then we'll also help with
+the workforce transformation. So we have a big human capital practice that does all the change management
+around helping people understand how the change of this technology
+is going to impact their business. When we talk about the digital revolution, we have to extend even beyond
+additive manufacturing into, you could call it industry 4.0,
+you could call it smart manufacturing. You could call it the future
+of manufacturing. It goes back to this notion of the digital
+thread and to what we like to talk about as the physical to digital
+to physical transition. So we all live in a physical world,
+we interact with physical objects. But so much of the enablement of
+that world has become digital. That is, we use information technology in
+order to make ourselves more effective, more efficient,
+in order to improve our quality of life. And so, as manufacturers,
+as service providers, companies need to understand how to draw
+off information from the physical world. That could be about the state of
+the products that they produce. It could be about the demands that
+customers have for those products. And that maybe the individual
+customizations that they are looking for to make it personable to them,
+as individuals. The manufacturers need to be able to draw
+off all that information using sensors or other technologies. They need to be able to apply advanced
+analytics and other computing systems in order to make better decisions about
+what and where they want to produce. And then they need to actually
+transition back into the physical world. This is where additive manufacturing comes
+in, to produce the products that have the fit and form and performance that
+are required by customers today. And so all of these information and
+operations technologies have to work together in this overarching
+digital thread in order for a company to be successful
+in the 21st century. With additive manufacturing,
+that may include the ability to, eventually at least, mix materials, embed
+sensors so that we continue that virtuous cycle of going from the physical
+world to the digital world. To the physical world, to the digital
+world, to the physical world, to the digital world, on and on, always
+improving and serving our customer better. The difference very often is one
+of scale and precision when you look at the difference between say
+a desktop and industrial scale. So we have some of the models that you
+produce, and you've been working with this airplane model that you're
+producing using a desktop printer. That is a fused filament process
+that we often refer to as FDM, fused deposition modeling. This is a similar object made through
+a fused filament process as well, they look very similar. And the main distinction that you're
+going to find here between the desktop and the industrial scale is one of size. You can produce a much bigger part and
+one of precision. So you're going to see a much finer
+gradations depending on which of the machines you're using. Now these fused filament processes
+are getting better and better everyday. We also have other technologies. So you've talked about SLS in your class,
+selective laser sintering. That's another process of
+additive manufacturing that is available at the industrial scale. This is the same object, same file,
+we just sent it to a different machine, that is produced out of another polymer or
+plastic material. In SLS, we're aiming a laser into a powder
+bed, again manufacturing layer by layer. And what you'll notice here, the obvious difference in the color,
+different materials. And so you've got different
+material capabilities, different mechanical
+characteristics between them. You'll also see some
+differences in precision. So this process, you can get to
+an even finer surface level. It's a powder-based system. That surface finish is determined by
+literally the grain size of the powder. We've also got one here. This is a selective laser
+melting process where we're actually producing
+out of stainless steel. Again, it's a powder bed process. Again, we're going layer by layer. And so the big differences are between
+what you are seeing on your desktop and what you are seeing in the industrial
+application is really one of the size of the process. The precision of the process, the variety
+of materials that you're able to use. Certainly the design principle. So, your students will perhaps be
+learning to design objects using a fused filament process. The learning of those design principles,
+of how to design for additive manufacturing, will be applicable
+in a variety of different spaces. Now it's important to recognize
+that different additive processes will yield different capabilities, and different opportunities to
+expand the design envelope. So what they're really learning here is
+that baseline, that foundation that's going to allow them to get a head
+start on the rest of the world. They're also going to
+learn to conceptualize the capabilities of
+additive manufacturing. So that when they get to that company or
+when they turn to their business and say hey, here's how additive manufacturing
+can really play a role in our broader manufacturing context. They're going to be much better prepared
+to have ideas about how to move that company forward using these technologies. The additive manufacturing space
+compared to conventional manufacturing, is still relatively small. But the important thing is
+that it's growing very fast. Additive manufacturing is not a panacea. It's not going to change everything. But it's going to change some things
+in really, very important ways. Additive manufacturing technologies offer
+the promise of addressing some really troubling, really challenging product
+design and supply chain issues. The market is growing at
+almost 30% per year and that's been sustained
+over quite a long time. So we're looking at a market that is
+growing by billions of dollars every year. There are academic studies
+that show that there can in fact be a return on investment for
+a home printer today. More likely than that, I think,
+is we are going to see a dipole model emerge sometime
+in the next five to ten years. Where your local big box retailer,
+or maybe your local hardware store, will begin to deploy these
+kinds of technologies. So when something goes wrong in your home,
+or when you have a product
+that you want to download. Perhaps you download and buy it,
+purchase a design from a service. You will send that over to your local
+shop and they will manufacture it for you, very much as America Makes did for
+these objects for us today. And then sometime,
+maybe not in the next five to ten years, we'll see that actually penetrate
+the home in a significant way. At Deloitte we have produced
+an online course, a MOOC. Go to www.dupress.com/3d-opportunity. We've got many perspectives that we'll
+look at individual dimensions of the additive manufacturing questions. And then we also have our online course, which is very similar to
+the course you're doing here. It's about three hours,
+a certificate credit. That they can walk through each
+of the seven ASTM processes for additive manufacturing. As well as a framework for understanding how additive
+manufacturing applies to the business. It's won awards, we've had lots of users. And we'd invite everybody to participate. Additive manufacturing, the universe
+of possibility is very broad and it's easy to get intimidated trying to
+figure out, what am I going to do first? Just get started, particularly again
+if you're a business that manufactures things, because your competitors
+are getting started. And this is an area where you want to
+learn and build capabilities over time. So, that you skill
+yourself as an individual. And so that you deliver those
+capabilities to your business, so that it can succeed in the long term. >> Don't be afraid to fail. >> Don't be afraid to fail. No. >> Well great job Marc, thank you so much. >> Thank you,
+it was a pleasure being here. >> Thank you. [MUSIC]

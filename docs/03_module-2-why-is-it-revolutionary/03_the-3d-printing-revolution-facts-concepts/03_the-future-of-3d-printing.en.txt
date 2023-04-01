@@ -1,0 +1,106 @@
+[MUSIC] Now, let's take a look at
+the future of 3D printing. Making predictions is always dangerous. As Yogi Berra once said,
+it's tough to make predictions, especially about the future. None the less, I'll give it a try. At present, the stock prices for
+leading 3D printing manufacturers such as 3D systems and
+Stratasys have been in sharp decline. And several commentators are suggesting that 3D printing's reality
+hasn't matched its hype. Although these commentators
+may be partially right, we believe the future of 3D
+printing is actually quite bright. In particular,
+we believe there are three key trends that suggest that 3D printing's
+best days are yet to come. The first trend is explosion
+of 3D hardware manufacturers. Up until the year 2009,
+the 3D printing industry was controlled by two firms,
+3D Systems, and Stratasys. Since then, the number of 3D printing
+manufacturers have exploded. There are now over 300 companies,
+making 3D printers and the number keeps on increasing. In addition, the technology that these
+printers employ is quickly evolving. One of my favorites is the Mcor printer. Now this printer is made by the McCormick
+brothers out of Scotland and it has a very interesting technique. This printer uses remote standard
+desktop printer paper and it has a feeding mechanism that
+feeds in one piece at a time. As far as it's print head it
+has three separate components. First, it has a very sharp tiny
+razor that cuts each sheet of paper. Second, it has a coloring
+device that colors the paper. And then it finally applies a glue to
+adhere one piece of paper to another. And it keeps on repeating until you
+have a 3D printed paper object, which can be finished with a varnish and
+hardened. So, this is a really interesting
+example about subtractive as well add in manufacture in a single unit. Another interesting example
+is the new Voxel printer. This printer was designed and
+created by Jennifer Lewis, who is a material science professor. She used to be at
+the University of Illinois. She's now at Harvard University. And this machine has 2 print heads. One print head extrudes plastic
+like a standard FDM machine and the second print head extrudes a special
+conductive ink that Jennifer created. So it has these two different
+print heads that allow you to do some really fascinating things. This explosion in the number
+of 3D hardware manufacturers, suggests that this is
+an industry in its infancy. As a point of comparison there
+are over 1 billion personal computers in the world and
+less than 500,000 3D printers. So we have a long ways to go. And we're still in the very early stages
+with substantial growth in the future. The second trend is the advances
+in 3D printing materials. As you can see from the example of
+the voxel printer, the types and capabilities of materials that can
+be 3D printed is quickly growing. In addition to being able to print
+material that conducts electricity, researchers are working on a material that
+actually allows the 3D print a battery. Now, once we are able to 3D print
+batteries of conductive ink we're only a short ways away from being
+able to print electronic devices. Other examples of advanced 3D printing
+materials include liquid metal like the terminator, and graphene. Graphene is 200 times stronger than
+steel and it conducts electricity. A great book that goes into
+the future of these materials, is this book by Hod Lipson
+called Fabricated. In this book, Hod talks about,
+not just 3D printing, but something he calls 4D printing, in which
+a 3D printed device will have advanced materials that actually
+will change over time. Our 3D printing and hardware course,
+we discuss these advances in both 3D hardware and
+materials in much more detail. The third trend is developments
+in 3D modeling software. There are also reported
+advances happening in terms of the software that
+we use to create 3D objects. At present, 3D modeling software
+requires the user to obtain a fairly high degree of
+technical knowledge. In order to create usable 3D designs. However, new software is emerging
+that is much more intuitive. For example, Google is working on
+a new project called Soli that will allow us to create 3D objects
+simply by moving our finger in space. Another interesting example is
+a new method called Maker's Marks, which is being developed by
+researchers at Stanford University. In the University of California. Now, this method allows
+users to create 3D designs by using a combination of
+modeling clay and stickers. It's quite interesting. The article that explains this technique
+can be found in our additional resources page. And our 3D printing software course, we discuss developments in 3D
+software in much greater detail. In order to give you some perspective, on
+where we stand now in terms of the stages of 3D printing technology,
+let me tell you a bit of a personal story. Back in 1982,
+when I was playing Dungeons and Dragons, one of my friends,
+Atsuo Yoshida had purchased, or his parents bought him,
+a new Apple II computer. Now, this computer was actually
+a predecessor to the famous Mac by a couple years,
+and it was a computer. You had a monitor on top of it,
+actual floppy disc, and I think we had four K of RAM
+which is unbelievably small. And we would use this computer to create
+random number generators that we'd be using for our Dungeons and Dragons game. So after one night of playing Dungeons and Dragons and using ASUS new Apple II
+computer, my grandmother picked me up. And I was raised by grandparents who
+were living on social security and I got back home and
+I told my grandmother I need a computer. Has one, I need to have one as well and
+she said, well how much do they cost? Well, about $2000. So, what could I do with it? Well, you can store your recipes on it. And she said to me, well,
+I don't have a recipe storage problem. So as a result, as you can imagine,
+we didn't buy that computer. Now, if we fast forward to today,
+if I was that same young man today. And I said to my grandmother, I need a
+computer, it would pretty easy to justify what I need it for,
+because they can do so many things. I need to do my homework, to connect
+with my friends and simply live my life. So, where we are now with
+current 3D printing technology, is where we were back then 1982,
+with a desktop personal computer. In effect, although we're making all
+these cool things like rhinoceroses An iPhone cases, and dice. That these are simply just recipes. To think about how far we've gone
+from personal computers since 1982, imagine the fast the potential
+the treaty prating holds in the future. I hope this brief discussion
+derives you with the new insights into the revolutionary
+potential of 3D printing and stimulates your interest in learning
+more about this amazing technology. There are many videos in
+this portion of the course. We'll have interviews with several
+leading 3D printing experts and entrepreneurs, who are currently
+leading this new revolution. I think you'll find their stories to
+be both fascinating and also inspired. Looking into the future, I'd like to share
+with you this quote from William Gibson, who's a famous science fiction writer and somebody who thinks
+often about the future. As a result,
+about 10 years ago he was asked by Fortune magazine to offer some
+thoughts about the future. And here's what he said. He said, the future is already here. It's just not evenly distributed. And that's where we
+stand with 3D printing. 3D printers are already here, but
+most people haven't seen them and haven't used them. So, by taking part of this specialization,
+learn about 3D printing, the future will already be here for you. [MUSIC]

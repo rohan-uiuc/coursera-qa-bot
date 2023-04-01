@@ -1,0 +1,211 @@
+.chat-container {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    z-index: 999;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.2);
+    max-width: 400px;
+    min-width: 300px;
+}
+
+.round {
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 30px;
+
+}
+
+.chat-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: darkblue;
+    color: #fff;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.chat-header h4 {
+    margin: 0;
+}
+
+.chat-close {
+    cursor: pointer;
+}
+
+.chat-body {
+    height: 300px;
+    overflow-y: scroll;
+    padding: 10px;
+    word-wrap: break-word;
+    display:flex;
+    flex-direction: column;
+}
+
+.chat-message {
+    margin: 10px;
+}
+
+.chat-message p {
+    margin: 0;
+    padding: 10px;
+    font-size: 16px;
+    line-height: 1.4;
+    position: relative;
+    word-wrap: break-word;
+    border-radius: 10px;
+    color: #fff;
+}
+
+.chat-message.user {
+    display: flex;
+    align-self: flex-end;
+    justify-content: flex-end;
+    text-align: right;
+    align-items: center;
+    background-color: rgba(0, 0, 139, 0.75);
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 10px;
+    word-wrap: break-word;
+}
+
+
+.chat-message.bot {
+    display: flex;
+    align-self: flex-start;
+    justify-content: flex-start;
+    text-align: left;
+    align-items: center;
+    background-color: rgba(0, 0, 139, 0.75);
+    border-top-left-radius: 0px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 0px;
+    word-wrap: break-word;
+}
+
+.chat-message.bot p {
+    margin: 0;
+    padding: 10px;
+    font-size: 16px;
+    line-height: 1.4;
+    position: relative;
+    word-wrap: break-word;
+    border-radius: 10px;
+    overflow-wrap: anywhere;
+}
+
+.chat-message.user:after {
+    content: "";
+    position: relative;
+    top: 0;
+    right: -15px;
+    width: 0;
+    height: 0;
+    border-top: 15px solid transparent;
+    border-bottom: 15px solid transparent;
+    border-left: 16px solid #00008BBF;
+    border-top-right-radius: 10px;
+}
+
+.chat-message.bot:before {
+    content: "";
+    position: relative;
+    top: 0;
+    left: -15px;
+    width: 0;
+    height: 0;
+    border-top: 15px solid transparent;
+    border-bottom: 15px solid transparent;
+    border-right: 15px solid #00008BBF;
+    border-top-left-radius: 10px;
+}
+
+
+.chat-input {
+    display: flex;
+    margin-top: 10px;
+}
+
+.chat-input input {
+    flex-grow: 1;
+    border: none;
+    border-radius: 5px;
+    padding: 8px 10px;
+    font-size: 16px;
+    margin-right: 10px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+}
+
+.chat-input button {
+    background-color: #00008BBF;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 8px 10px;
+    font-size: 16px;
+    cursor: pointer;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+}
+
+/* CSS for chat-container when minimized */
+.chat-container.minimized {
+    min-width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    z-index: 9999;
+    background-color: #fff;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.3);
+    cursor: pointer;
+}
+
+/* CSS for chat-bot-icon */
+.chat-bot-icon {
+    font-size: 30px;
+    color: #00008BBF;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+/* CSS for chat-header when not minimized */
+.chat-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #6c7ae0;
+    color: #fff;
+    padding: 10px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+/* CSS for chat-container when not minimized */
+.chat-container:not(.minimized) {
+    border-radius: 5px;
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    z-index: 9999;
+    background-color: #fff;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.3);
+}
+
+/* CSS for chat-bot-icon when chat-container is minimized */
+.chat-container.minimized .chat-bot-icon {
+    display: block;
+}
+
+/* CSS for chat-bot-icon when chat-container is not minimized */
+.chat-container:not(.minimized) .chat-bot-icon {
+    display: none;
+}
+
+

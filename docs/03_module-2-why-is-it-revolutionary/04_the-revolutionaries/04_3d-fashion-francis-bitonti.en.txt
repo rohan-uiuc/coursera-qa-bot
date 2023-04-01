@@ -1,0 +1,115 @@
+[MUSIC] Hi, we're here in
+Brooklyn New York once again. We're here today to talk
+with Francis Bitonti. Francis is world famous for being one of the first people to print
+a dress using 3D printing technology. We've talked to Francis about this dress, about the cool projects that he's working
+on now in that 3D printing domain. Let's go see if we can find him. Come on in. Well, good morning, Francis. Thank you for
+taking the time to meet with us today. >> Yeah, my pleasure. Great meeting with you. >> Can you tell us a bit
+about your 3D printing story, how you became interested
+in this technology? >> Sure, so I started as an architect. I was an architect that was displaced. I was working as an industrial designer
+at the time, and we were using it for prototyping. And, it was just sort of one of these like
+a-ha moments when we got a prototype back. Like it had similar mechanical
+structural properties to what we were getting out of injection molding,
+but I got it without tooling. I got it really fast, and we're able to do
+things that I couldn't do through molding. So I just became really,
+really fascinated with it after that, and I had this kind of dream in my head
+that it could be a manufacturing tool. I still consider what I do pretty
+close to industrial design. The way that we have to think about
+projects is much closer to how an industrial designer might think than
+a fashion designer because we're not really working with fabrics. We're making things soft, but a lot of materials we start with
+are not in the realm of textiles. We learn textiles, but I don't think
+like the kinds of materials and what we end up with in the assembly
+process has very much to do with what fashion designers deal with. So I'm reluctant to kind of call myself
+that, like most of what we work on gets on someone's body, so
+it's fashion in that respect. But from a materials
+design sort of standpoint, I would consider the expertise
+of the studio to be more chores industrial design. I don't think it was
+the first 3D printed dress. It was one of the first
+that was articulated and flexible, and it had lot of features
+that were unique at the time. But I don't think it was the actual first. >> One of the first. >> It was one of the first. Yes, definitely,
+definitely one of the first. >> Well,
+it's not something that we see everyday? >> No. [LAUGH]. >> Most of us don't have one in
+their wardrobe I would imagine. >> I don't think so, no,
+that was an expensive dress. [LAUGH] It's very similar to how
+you would design a dress normally. I think the big difference
+is with 3D printing, you're tasked with designing
+your own material. Like on that dress, we had a design on
+these little articulated joints, and then we had to come up
+with a way to manage, I think there was like 3,000 unique
+articulated joints in there. So like we started in a very,
+very small scale and then we made methods for
+applying that to something larger. >> So,
+all of those 3,000 pieces were 3D printed? >> Yes. >> How long did that take? >> The printing wasn't that long. I think they printed the whole
+dress in about two days. >> Really? That's amazing. >> It took longer to kind of polish it,
+to glue crystals on, then it did the printing, yeah. A lot. I think this is probably one of the things
+that needs to be resolved in the industry the most. We've got a lot of CAD packages. And I think the reason for that is they're
+all kind of good at something else, and we've sort of cobbled together work flows
+that make sense for what we're doing. There's a gap right now, and a lot of
+the software that you would use for the industrial designer's
+mind is in the past. They're designed for like machining. With 3D printing, you're dealing
+with parts that are low volume, high surface area. When you're machining stuff, you usually
+get low surface area, high volume, because you're given like standard box of
+material and a lot of it is obstructive. So the tools are designed for that,
+and I don't really think we have much out there right now on the way
+of designing tools that are, I think that make sense the way in additive,
+you would design for an additive process. It's a lot of thermoplastics, yeah, that's
+the kind of majority of what we work with. I'd see a distant future
+with organic materials, but I don't know if I see it
+in the very near future. We've been putting a lot of energy
+in looking at elastomeric materials, things like that. Because we were looking at it like
+cellular structures, like assembling lots of small, rigid components, and
+I think that's inherently limited. So I think on the wearable
+technology side, it's an advantage to that because
+if you're dealing with polymers, you can have invented electronics,
+sensors, things like that. I think there's a multimaterial
+proposition there, and as an advantage to having elastic
+materials that can address the body. So I think that's going to
+be a huge value add for 3D printing on the fashion textiles front. On the other side, I think we've
+been seeing a lot of shoes, and that makes a lot of sense because we
+are working with plastics right now. I think midsoles, outsoles, insoles,
+all that stuff, their complex geometry, the sizing, size is complicated. It's never really been solved. Well, I think the way we make shoes has
+been, it's made customization difficult. It's a million dollar, well,
+more than a million dollar question. I guess, like the things I could say for
+sure is that you're going to have an increase in the amount of desktop
+technologies that are available. I definitely see things going like
+smaller, faster, cheaper already, inspite of I think what a lot of
+the public has seen as a frustration, like it's not doing that. It absolutely is, I think this hardware
+gets there a lot slower in software. And I think within five years,
+you'll completely see that happening. I think they'll be an incentive to start
+selling files or maybe print it home for certain things. The print-at-home thing is still very
+questionable to me in what role that might play in someone's house. I don't think it's going to be like
+the replicator from Star Trek. I think it be like something
+you'd have in your tool shop. I think the cost of machines and
+materials is coming down. They're going to get more competitive. And it's going to open up
+a lot of opportunities, but it's hard to pinpoint exactly what. Scanning's only as good as the tools,
+you have to analyze the scan. It's a lot of data, and I find we
+don't really use scanning all that much without working with someone who
+has some software to process that scan. Like we've done a lot of work with shoes
+recently, and there's this kind of idea, I'm going to scan my foot and
+then use the foot to build the model. There's a relationship between
+the form of the product and the thing that goes on your body, and
+it's not a one-to-one relationship. So like we really need software to
+process scans in a meaningful way. I think that if you have been involved
+with working with the kinds of materials that 3D printers can and
+the kinds of things you can get out of it, it's mind-blowing right away because
+you're not offering industrial scale, these machines are really small. They're basically portable. You're taking something that's really
+always been very inaccessible, and it is accessible. I mean, it's not easy yet, but we can
+very easily see that it will be easy. And that's the gamechanger, because that's
+going to let you build a manufacturing infrastructure that's going to look very,
+very different than what we have now. Takes a long time to get
+hardware to market, and you see this a lot when
+you look at startups. Like software startups,
+you'll hear about funding, and then boom, they're on the market. And then a hardware comes out, and it's usually a year later
+before that product ships. All right, so you're already starting
+at this much slower rate of evolution, and there were a lot of patents that I
+think prevented healthy competition, especially around things like materials,
+that really kind of kept costs super high and sort of kept in this realm
+of being exclusive to prototyping. That happened with FDM, there's a lot
+of stuff going on with FDM, and I find FDM really exciting right now. And it's been in
+the public domain a while. We've had a chance to let people iterate
+and innovate, and now it's mature. As we're starting to see a lot of these
+patents run out, you're going to see that same thing happen, and I think
+the rate of innovation will increase. Our website is a good place,
+social media, we post a lot. Actually, social media is
+probably better than the website. I don't update the website that much. >> And the social media site,
+what would our learners type in to find. >> Just my name, Francis Bitonti,
+Twitter, Facebook. >> Thank you for your time. >> Cool, thanks a lot. >> Really appreciate it. [MUSIC]

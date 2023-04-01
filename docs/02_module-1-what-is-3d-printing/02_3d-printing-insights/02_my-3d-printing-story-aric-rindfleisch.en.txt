@@ -1,0 +1,38 @@
+[MUSIC] Today, I'm in front of Bascom Hall, here at the University of
+Wisconsin in Madison, Wisconsin. You may be wondering, what is
+an University of Illinois professor doing here at the University of Wisconsin? Well, before I joined
+the Illinois faculty, I was a member of the faculty here at
+the University of Wisconsin for ten years. As part of my duties, I taught a course
+called New Product Development. At the end of this course, students would give presentations
+about innovative new products. Well, there was one presentation that
+changed my outlook on innovation forever. That was a student presentation
+in the fall of 2008, which the students brought forward this
+new technology called 3D printing. Like most of the students in the room, I
+had never heard of this technology before, and it really fascinated me. So since then, I was determined to learn
+all that I could about 3D printing. And about 18 months later,
+I purchased my first 3D printing kit. Let me show it to you. This here is the MakerBot Cupcake,
+the world's first desktop 3D printer. Now back in 2010,
+these machines came as a kit. I'm not an engineer,
+I'm a marketing professor. So it was quite a task to build this. This came in a flat box with hundreds
+of screws, you can see parts, moving pulleys, gears, and all sorts
+of things that I didn't understand. So I sought the help
+of a number of people. First of all, I sought the help
+of my teenage son, Justin. So Justin and I, in the course of about
+two weeks, put this printer together. We got it to turn on, we got their gears
+to work, we got the motors to run. But we had a number of problems. First of all, we couldn't get the printer
+hot enough to melt the plastic, so we couldn't make the objects. So, I went to New York City to visit
+MakerBot to see if they could help. They did. So once we got the plastic to melt,
+we had a second problem. The plastic did melt, but
+the objects didn't look very good. The edges were rough, they were droopy. It didn't look like
+a high-quality piece of work. I realized at that time,
+I actually needed an engineer. Fortunately, at the same time, I had
+recently read an article about a young engineering graduate from the University
+of Wisconsin Madison named Chris Meyer, that established a hacker
+space called Sector 67. So I give Chris a call. Supposedly, this place had 3D printers. So I let Chris borrow my printer. He had it for about six months, and by the end of that
+time, he got it running very smoothly. Now since that time, I've been interacting
+with the hacker space community. There are many of them
+all across the country. And they do 3D printing and all sorts
+of digital manufacturing that help individuals like me turn
+their ideas into objects. So what I'd like to do next is actually
+take a walk down to this hacker space, talk to Chris, find out more
+about 3D printing, hacker spaces, and the maker movement. [MUSIC] [SOUND]

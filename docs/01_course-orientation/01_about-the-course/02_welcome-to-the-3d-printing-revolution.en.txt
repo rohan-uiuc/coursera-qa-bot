@@ -1,0 +1,65 @@
+[MUSIC] >> Welcome to The 3D Printing Revolution. This first course in our
+3D printing specialization will provide an overview
+of what 3D printing is and why so many people believe that it
+will revolutionize our economy. [MUSIC] My name is Eric Rindfleisch. I'm a John M Jones Professor of
+Marketing at the University of Illinois. I'm also the co-founder and Executive
+Director of the Illinois MakerLab. The world's first 3D printing
+lab in the business school. I built my first 3D printer in 2010 and
+have been actively engaged in 3D printing, education and research since that time. These experiences have convinced me
+that 3D printing is a revolutionary technology that will dramatically
+change our economy by allowing individuals to turn
+their ideas into objects. Like most people,
+you've probably heard about 3D printing, but not really sure what 3D printing is or
+why it matters to you. This course will help answer these
+questions by demonstrating how 3D printers work, show you what type of things
+they can make and how you can benefit, both as a consumer, but also as
+a creator from this new technology. This short course consists of two modules. In our first module, week one,
+we'll discuss 3D printing. >> I think 3D printing is very accessible,
+very easy to understand how to use and the best part about it is there's not
+a lot of prior knowledge that you need, because it's additively
+building the parts. >> We've seen 3D printing being
+used differently than maybe we did two years ago. Where before,
+it was pure prototyping we're seeing now with material science advances, attempts
+that attacking real large problems. >> So when we looked around and said,
+what are the critical technologies that we're going to need to be able to help
+our clients understand for the future? Additive manufacturing 3D
+printing was clearly one of them. >> This module provided an overview
+of the 3D printing ecosystem, including as hardware,
+software and materials and it provided an actual demonstration of the
+3D printing process from start to finish. In our second module, week two,
+we'll examine the revolution. >> You're taking something that's really
+always been very inaccessible and it is accessible. I mean, it's not easy yet, but we can
+very easily see that it will be easy. And that's a game changer, because that's
+going to let you build a manufacturing infrastructure that's going to look very,
+very different than what we have now. >> Now, we're seeing software developers
+connecting with the manufacturing process and making the software tools. Autodesk is a great example of this. They have their Pier 9 facility and
+they're working with designers, and incorporating that, and we like to think we're doing
+the same thing with our processes. We share our pilot materials and programs
+with our community and take that feedback and try to improve to make it ideal for
+how people really are using this. >> Right now, most 3D printers print
+in relatively passive materials as the technology expands to
+printing in active materials. Materials that conduct electricity. Materials that can sense, can move,
+can compute, can store power. If you can print in a dozen
+base materials simultaneously, the combinations of those materials
+that you can use to create objects in 3D that will be called metamaterials
+is far greater than just 12 and it's a power of 12, and that's in
+the exponential nature of this technology. >> In this course, we take a look at
+3D printing's revolutionary potential across a variety of industries, including
+fashion, retailing and manufacturing. And also, take a look at cutting edge
+developments in 3D printing technology. For example, both of these topics using
+a variety of learning approaches, including readings, video lectures,
+hands on exercises and interviews. The variety of key players in the 3D
+printing domain from both industry and also academia. By engaging in these various
+learning activities, you'll increase your appreciation for
+what 3D printing is and how it's going to
+revolutionize our economy. First, 3D printing is a new, low-cost, desktop technology that can
+be used by just about anyone. Second, this technology allows us to
+easily turn our ideas into objects and gives consumers the power to be creators. Third, 3D printing also blurs the divide
+between the physical and the digital and makes it easy to remix and
+customize physical objects. Fourth, by changing both the roles of
+consumers and the nature of objects, 3D printing will revolutionize our
+economy and change the way we live. Finally, this course will
+provide a firm foundation for the remaining courses
+in our specialization. And hopefully, will capture interest
+in learning more about 3D printing by enrolling in these courses. Are you ready to be apart of this new and
+exciting revolution? Great, lets begin. [MUSIC]

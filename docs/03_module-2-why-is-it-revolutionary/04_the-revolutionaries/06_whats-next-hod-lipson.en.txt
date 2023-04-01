@@ -1,0 +1,158 @@
+[MUSIC] Hi.
+I am here at the campus of Columbia University,
+one of the world's greatest universities. We're here to speak with Hod Lipson. Hod recently moved to Columbia after
+spending many years at Cornell University, one of my Alma maters. Hod is one of the leading academics
+in the domain of 3D printing and one of the first to bring 3D
+printing to the desktop level. Also he's the author of this book,
+Fabricated. It's one of the best books on
+the topic of 3D printing, and in this book Hod lays out a very ambitious
+agenda about the future of 3D printing. So we're here to talk with Hod about his
+book, about the future of 3D printing and what it means for all of us. Come on, let's see if we can find Hod. Hi Hod. >> Hi. >> Thank you for meeting with us today. >> My pleasure. >> Could you tell us first of all how
+you get started with 3D printing? What's your 3D printing story? >> I first saw it around
+1989 actually in college. And I thought that manufacturing
+is instantly obsolete, but there's no more conventional
+manufacturings going to take over. But that didn't happen. 30 years later,
+technology is still in its infancy, but for me, it was fascinating to see
+how we can use this technology to make things that we
+can't make any other way. I got started with actually working
+with 3D printing first as a user. We were making robots and we were making robots that were
+designed automatically by software and the robots were basically impossible to
+make using conventional processes, but the availability of 3D printer that
+was back in 99 allowed us to make these robots that basically unleashing
+the potential of design automation, in a way that was not possible before. We reached the limits of 3D
+printing at the time very quickly, and we started to try to
+expand the technology itself. Back in the early 2000s when we started
+working and developing 3D printers and we really wanted to work with printing
+multiple materials at the same time. And of course multiple materials to
+the printers were not available. We had to develop our own 3D printer
+to do that and we developed what we called then the Fab@Home which was our own
+custom-made 3D printer that worked with multiple materials but very quickly
+realized that the industry was stuck in this vicious cycle of
+expensive machines and narrow markets. And I think that the entire industry of
+additive manufacturing was so handicapped. So we decided to open-source the
+technology, create some kind of platform that anybody could use to, basically
+anybody could make their own 3D printer. At the same time, in parallel, the RepRap appeared as another open-source
+printer from the University of Bath in the UK with very much the same kind
+of idea of democratizing the access. So, that happened around 2005, 2006. There were hundreds of
+these printers made. And we can only know that indirectly
+because it's open source. Within two or three years,
+the MakerBot printer came out. The MakerBot basically borrowed a lot of
+design elements from the Fab@Home and from the RepRap. They're all in the original machine,
+which basically made history, and really democratized the technology. The big corporations in the area at
+the time and still are, are fairly open to this idea of these opened sourced printers
+that sometimes infringe on their patents. Nevertheless they allow these
+consumer scale printers to grow, understanding that that
+consumer skill market eventually leads to growth
+of the entire field. And I think that was a wise understanding,
+and that sort of harmony actually works and
+still exists to a large extent. [SOUND] A lot of people ask,
+is 3D printing hype? Is it a fad that's going to go away or
+is it here to stay as a real revolution? And I'm really a strong believer that
+not only is it a big revolution, but we haven't seen most of it yet. We've only seen the tip of the iceberg. Part of it is this expansion in materials. Right now, most 3D printers print
+in relatively passive materials. You have plastic, some print in metal. Maybe ceramics. But these are sort of single materials,
+they're fairly passive materials. But as the technology expands
+to printing in active materials, materials that conduct electricity, materials that can sense, can move,
+can compute, can store power. If you can print in a dozen base materials
+simultaneously the combinations of those materials, you can use
+to create objects in 3D, what we call metamaterials,
+is far greater than just 12. It's a power of 12. That's just, in the exponential
+nature of this technology. The design space, the things that we
+can make expand so dramatically that anything we make today from these passive
+materials will pale in comparison. And so that's why I think
+that we really are just at the beginning of what is a long journey
+in this ability to create object with multiple materials with
+active materials really. Moving from passive parts
+to active systems and that's, I know the design
+space is vast and unexplored. [SOUND] So
+let me start by explaining voxels. A voxel is a like a pixel-
+>> Pixels. >> But in 3D. So a pixel is a square. >> Yup.
+>> In 2D, a voxel is a volumetric pixel. It's a sort of a lego brick if
+you like that's very small so if you think about it everything
+you're watching on a screen right now is made out of small pixels, but
+it looks to you continuous and analogue but in fact its made out of
+lots of discrete building blocks. So imagine a world where three
+dimensional objects are not continuous objects made out of metal or
+clay or plastic, but they're actually made out of lots and
+lots of tiny voxels, tiny LEGO bricks, if you like,
+that are assembled using a 3D printer. So then the 3D printer, instead of
+printing with continuous materials, which is what most 3D printers print
+today, therefore they're analog, in my opinion,
+digital 3D printer would actually print with pixels, with voxels,
+with three dimensional building blocks. So it would have a lot of voxels in its
+disposal, voxels of different types. They will look more like powders. The voxels are the size
+of a grain of sand. And these voxels will be quickly
+stapled together to create a three-dimensional object. So what are the advantages
+of this approach? The first is that you can combine many,
+many different functionalities. You can have hard voxels,
+soft voxels, conductive voxels, long conductive transistor voxels. Web server voxels. Whatever you need so you can have a huge
+variety of basic building blocks from which you can make 3D,
+3 dimensional objects. You can literally print a cell phone or
+a laptop. But the other advantage is that
+you can recycle things completely. You can take your laptop. Sort it back into voxels and
+print it into something else. So I think in the long term, this of
+course is not a way to make everything. I don't know if you'd
+make a chair this way. But when you're talking about
+things that involve electronic, we're moving from passive to
+active systems I think inevitably we'll shift to printing with voxels rather
+than printing with continuous materials. The term for this entire field
+is called digital materials, a term coined by Neil Gershenfeld from
+the Center of Bits and Atoms at MIT. And that's in this way
+of thinking about matter as composed of bits, voxels,
+rather than continuous. A 3D printer that works with digital
+materials, we call it a rapid assembler. It's really, you can think about
+it more as an assembler because it staples together all
+these building blocks. Actually, I have one of them here. This is a printer, a rapid assembler,
+that Jonathan Hiller made a couple of years ago, and it assembles these
+spheres into three dimensional objects. And you can see this is a very Low
+resolution voxel assembler, if you like. There's only 10,000 voxel here. But in the future as these voxels become
+smaller and the printers become faster, you can imagine an assemble that can
+assemble millions of these units together. [SOUND] We've already
+printed a loud speaker. >> Really? >> A working loud speaker,
+100% 3D printed. >> The whole thing. >> The whole thing. The coils, the wires, the holes,
+the magnet, the whole thing and the shell, the membrane is
+all 3D printed and it works. You know,
+it's not a great loud speaker, but it is the first 100% 3D printed
+consumer electronic device. And I think we'll see more and
+more of that happening. And our dream, a milestone here
+in our lab is to print a robot that will walk out of the printer,
+batteries included. >> Is that something that would
+happen in our lifetime, do you think? >> I keep thinking it's
+going to happen next year, but it seems to be a little bit more
+difficult than meets the eye. We've printed already all the components,
+the muscles, the batteries, all the different things. But the trick is to print it
+all together in one shot, and that seems to be still beyond
+the capability of any printer today. But I think you know, it's not
+beyond the realm of what's possible. And again, when printers can do all that
+together you know, all bets are off. [SOUND] I think we'll all
+have a printer in our home. I should say I'm in
+the minority in thinking this, most experts would argue that
+you can order anything online, it will be printed on
+industrial scale printer, and brought to you with a driverless pod,
+24 hours later. But I think there's, that's true but
+there's one type of printer that everybody would need in their home
+because they'll need to use it right away. And that's a food printer. >> Food printer.
+>> So food printing is one of
+the things we're working on now. I think it's one of these,
+beyond plastic, metal, and ceramics there's bio-printing, which is
+very interesting for biology and medicine. But food printing is this idea that
+basically a printer assembles food for you and cooks it in line,
+in a data driven way. So based on your biometrics,
+on your needs, you can get the food that has
+the right level of calcium, sugar, protein, vitamins, whatever you
+need that day, in a data driven way. So again it's not a, it's not about
+to replace your entire kitchen but I think it's something
+that many people will want in their kitchen very much the same
+way they have an espresso machine. [SOUND] So of course our book, Fabricated, talks about sort of the future of
+the technology in a very high level. And when we wrote the book back in 2013, we tried to make sure that it
+stays relevant for a long time. We didn't talk so much about the specific
+printers available at that time, but more about this long term
+future which we've been discussing. But beyond that,
+the resources change every minute and you just search for the latest and
+greatest and you'll see it. There are books and resources on how
+to use this printer and that printer. The online courses that help you train. There's a lot to learn about not
+just how to use a printer but how to design for 3D printing. How to take advantage of 3D
+printer in design thinking., I think that's a big thing to learn. And, of course, the ultimate thing
+about new business models are enabled, and frankly, there's nowhere to
+learn that but to experiment. [SOUND] So our labs can be
+found at creativemachines.org, where we look at machines that create and
+machines that are created. >> Okay, great job. Thank you. >> Okay. [MUSIC]
